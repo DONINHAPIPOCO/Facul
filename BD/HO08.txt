@@ -1,0 +1,20 @@
+HO08 - SQL(DML)
+Luis Felipe Souza Lopes - 654663
+
+1. SELECT DISTINCT actors.first_name, actors.last_name
+   FROM actors, directors
+   WHERE actors.first_name = directors.first_name
+   AND actors.last_name = directors.last_name
+
+2. SELECT DISTINCT actors.first_name, actors.last_name
+   FROM actors, directors
+   WHERE actors.first_name != directors.first_name
+   AND actors.last_name != directors.last_name
+
+3. SELECT DISTINCT actors.first_name, actors.last_name, directors.first_name, directors.last_name
+   FROM actors, directors
+
+4. SELECT name
+   FROM movies, movies_directors
+   WHERE movies.id = movies_directors.movie_id 
+   AND movies_directors.director_id IS NULL

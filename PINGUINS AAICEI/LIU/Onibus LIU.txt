@@ -1,0 +1,20 @@
+Valor dos Ônibus do LIU:
+
+Valor dos 2 ônibus: R$ 18.000,00 (R$ 9.000,00 cada).
+
+
+Valor do aluguel: - Por ônibus: R$9.000,00.
+				  - Total: R$18.000,00.
+
+Quantidade: - 2 ônibus de 46 lugares cada.
+			- Considerar total de 80 lugares.
+			
+Data de Saída/Retorno: - Saída: 01 de Novembro às 21:30.
+					   - Retorno: 05 de Novembro às 22:30.
+					   
+Quilometragem: - 475km ida.
+			   - 475km volta.
+			   - rodando 100km internamente por dia.
+			   
+Motoristas: - R$40,00 por dia para cada motorista.
+			- Hospedagem do motorista é por conta do contratante (nóis).

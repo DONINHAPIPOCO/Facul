@@ -1,0 +1,111 @@
+Lista de Aulas por Horário (Coreu)
+
+-Ciência da Computação-
+Segunda-feira:
+	07:00 - 2o Periodo) Cultura Religiosa (Turma 2).
+		    4o Periodo) Estatística e Probabilidade.
+		    5o Periodo) Arquitetura de Computadores 3.
+		    6o Periodo) GAAL.
+
+    08:50 - 1o Periodo) AED I (Turma 1).
+			1o Periodo) AED I (Turma 2).
+		    2o Periodo) AED II (Turma 1).
+			2o Periodo) AED II (Turma 2).
+		    3o Período) Linguagens de Programação.
+		    4o Periodo) Laboratório de Desenvolvimento para Dispositivos Móveis.
+		    5o Periodo) Projeto e Análise de Algoritmos.
+		    6o Periodo) Fundamentos Teóricos da Computação.
+		   
+	10:40 - 2o Periodo) Cultura Religiosa (Turma 1).
+			4o Periodo) Grafos
+			5o Periodo) Redes de Computadores I.
+			6o Periodo) Processamento e Analise.
+			
+	13:30 - 3o Periodo) Linguagens de Programação.
+			
+	15:20 - 1o Periodo) AED I.
+			2o Periodo) AED II.
+			3o Periodo) Engenharia de Software I.
+			
+Terça-feira:
+	07:00 - 1o Periodo) Calculo I (Turma 1).
+			3o Periodo) Calculo II.
+		    
+		   
+		   
+	08:50 - 1o Periodo) Calculo I (Turma 2).
+			1o Periodo) Introdução à Computação (Turma 1).
+			4o Periodo) Inteligência Artificial.
+			5o Periodo) Engenharia de Software II.
+	
+	10:40 - 3o Periodo) Arquitetura de Computadores II.
+			5o Periodo) Sistemas Operacionais.
+
+	13:30 - 1o Periodo) Calculo I.
+			2o Periodo) Cultura Religiosa.
+			3o Periodo) Calculo II.
+			4o Periodo) MAD.
+	
+	15:20 - 1o Periodo) Introdução à Computação.
+			3o Periodo) Arquitetura de Computadores II.
+			4o Periodo) Grafos.
+			
+	
+
+Quarta-feira:
+	07:00 - 2o Periodo) Arquitetura de Computadores I (Turma 1).
+			2o Periodo) Engenharia de Software I (Turma 2).
+			3o Periodo) Banco de Dados (Turma 1).
+			6o Periodo) GAAL.
+		    
+		   
+		   
+	08:50 - 1o Periodo) AED I (Turma 1).
+			1o Periodo) AED I (Turma 2).
+			2o Periodo) AED II (Turma 1).
+			2o Periodo) AED II (Turma 2).
+			3o Periodo) Linguagens de Programação.
+			4o Periodo) MAD.
+			5o Periodo) Projeto e Analise de Algoritmos.
+			6o Periodo) Fundamentos Teoricos da Computação.
+	
+	10:40 - 1o Periodo) Filosofia (Turma 2).
+			2o Periodo) Arquitetura de Computadores I (Turma 2).
+			2o Periodo) Engenharia de Software I (Turma 1).
+			3o Periodo) AED III.
+			4o Periodo) Grafos.
+			5o Periodo) Arquitetura de Computadores III.
+			6o Periodo) Filosofia.
+			
+	13:30 - 2o Periodo) Engenharia de Software I.
+			3o Periodo) Linguagens de Programação.
+			4o Periodo) Inteligência Artificial.
+			
+	15:20 - 1o Periodo) AED I.
+			2o Periodo) AED II.
+			3o Periodo) AED III.
+			4o Periodo) Grafos.
+	
+	17:10 - 1o Periodo) Filosofia.
+			2o Periodo) Arquitetura de Computadores 1.
+			4o Periodo) Estatística e Probabilidade.
+	
+Quinta-feira:
+	07:00 - 1o Periodo) Calculo I (Turma 1).
+			3o Periodo) Calculo II.
+		    
+		   
+		   
+	08:50 - 1o Periodo) Calculo I (Turma 2).
+			1o Periodo) Filosofia (Turma 1).
+			3o Periodo) Engenharia de Software I.
+			4o Periodo) Grafos.
+			6o Periodo) Computação Paralela.
+			
+	
+	13:30 - 1o Periodo) Calculo I.
+			3o Periodo) Calculo II.
+			
+	15:20 - 3o Periodo) Arquitetura de Computadores II.
+			4o Periodo) Grafos.
+	

@@ -1,0 +1,80 @@
+LUIS FELIPE SOUZA LOPES - 654663
+TURNO: MANHÃ
+
+01. Atores(10.000 registros) -> Codigo(16B), Nome(160B) + ponteiro(16B)
+ 
+Tamanho do Registro: 160B + 16B + 16B = 192B
+Tamanho do Bloco: 2KB
+
+Fator de Bloco:  (2 x 1.024B)/192B = 10
+Numero de Blocos: 10.000/10 = 1.000
+Espaço Total: 2KB x 1.000 = 2.000KB ou 2GB
+Espaço Desperdiçado: 2KB - (10 x 192) = 2.048B - 1.920B = 128B
+Numero de Acessos: Log2(1.000) + 1 = 10 + 1 = 11
+
+02. Clientes (100.000 registros) → CPF (11B), Nome (160B), 
+Endereco (200B), Telefone (16B), DataNascimento (12B), Sexo (1B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 11B + 160B + 200B + 16B + 12B + 1B = 416B
+ 
+Fator de Bloco: (2 x 1.024B)/416B = 5
+Numero de Blocos: 100.000/4 = 20.000
+Espaço Total: 2KB x 25.000 = 40.000KB ou 40GB
+Espaço Desperdiçado: 2KB - (5 x 416) = 2.048B - 2.000B = 48B
+Numero de Acessos: Log2(20.000) + 1 = 15 + 1 = 16
+
+03. Filmes (2.000.000 registros) → Codigo (16B), Nome (160B), Genero (80B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 16B + 160B + 80B = 256B
+
+Fator de Bloco: (2 x 1.024B)/256B = 8
+Numero de Blocos: 2.000.000/8 = 250.000
+Espaço Total: 2KB x 250.000 = 500.000KB ou 500GB
+Espaço Desperdiçado: 2KB - (8 x 256) = 2.048B - 2.048B = 0
+Numero de Acessos: Log2(250.000) + 1 = 18 + 1 = 19
+
+04. Funcionarios (3.500 registros) → CPF (11B), Nome (160B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 11B + 160B = 171B
+
+Fator de Bloco: (2 x 1.024B)/171B = 11
+Numero de Blocos: 3.500/11 = 319
+Espaço Total: 2KB x 319 = 638KB
+Espaço Desperdiçado: 2KB - (11 x 171B) = 2.048B - 1881B = 167B
+Numero de Acessos: Log2(319) + 1 = 9 + 1 = 10
+
+05. Midias (10.000.000 registros) → Identificador (24B), Tipo (8B), PrecoDiaria (24B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 24B + 8B + 24B = 56B
+
+Fator de Bloco: (2 x 1.024B)/56B = 2
+Numero de Blocos: 10.000.000/2 = 5.000.000
+Espaço Total: 2KB x 5.000.000 = 10.000.000KB ou 10.000GB ou 10TB
+Espaço Desperdiçado: 2KB - (2 x 56B) = 2.047B - 112B = 1936B
+Numero de Acessos: Log2(5.000.000) + 1 = 23 + 1 = 24
+
+06. Aluguel (20.000.000 registros)  → DataLocacao (12B), DataDevolucao (10B), ValorPagar (24B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 12B + 10B + 24B + 16B = 62B
+
+Fator de Bloco: (2 x 1.024)/62B = 33
+Numero de Blocos: 20.000.000/33 = 606.061
+Espaço Total: 2KB x 606.061 = 1.212.122KB ou 1.212GB ou 1TB
+Espaço Desperdiçado: 2KB - (33 x 62B) = 2.048B - 2.046B = 2B
+Numero de Acessos: Log2(606.061) + 1 = 10 + 1 = 11
+
+07. Pagamentos (50.000.000 registros) → Codigo (48B), Data (12B), Valor (24B)
+
+Tamanho do Bloco: 2KB
+Tamanho do Registro: 48B + 12B + 24B = 84B
+
+Fator de Bloco: (2 x 1.024B)/84B = 24
+Numero de Blocos: 50.000.000/24 = 2.083.334
+Espaço Total: 2KB x 2.083.334 = 4.166.668KB ou 4.166GB ou 4TB
+Espaço Desperdiçado: 2KB - (24 x 84B) = 2.048B - 2.016B = 32B
+Numero de Acessos: Log2(2.083.334) + 1 = 21 + 1 = 22 

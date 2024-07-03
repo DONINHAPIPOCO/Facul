@@ -1,0 +1,185 @@
+Passagem de Salas - Terça-Feira
+
+Achar as Salas.
+
+-Coreu-
+
+07:00 - 1. Cálculo I (Turma 1) (1o período - CC).
+		2. Cálculo II (2o período - CC).
+		
+08:50 - 1. Cálculo I (Turma 2) (1o período - CC).
+		2. Cálculo I (1o período - ES).
+		3. Introdução à Computação (Turma 1) (1o período - CC).
+		4. Inteligência Artificial (4o período - CC).
+		5. Engenharia de Software II (5o período - CC).
+		6. Modelagem de Processos (2o período - ES).
+		
+10:40 - 1. Arquitetura de Computadores II (3o período - CC).
+		2. Sistemas Operacionais (5o período - CC).
+		
+13:30 - 1. Cálculo I (1o período - CC).
+		2. Cultura Religicosa 2o período - CC).
+		3. Cálculo II (3o período - CC).
+		4. MAD (4o período - CC).
+		5. Geometria e Algebra (2o período - Fis).
+		6. Física II (4o período - Fis).
+		7. Metodologia (6o período - Fis).
+		8. Geometria e Algebra (2o período - Mat).
+		9. Física II (6o período - Mat).
+		
+15:20 - 1. Introdução à Computação (1o período - CC).
+		2. Arquitetura de Computadores II (3o período - CC).
+		3. Grafos (4o período - CC).
+		4. Astronomia (2o período - Fis).
+		5. Cálculo Aplicado II (4o período - Fis).
+		6. Metodologia (6o período - Fis).
+		7. LTC (2o período - Mat).
+		8. Cálculo Aplicado II (4o período - Mat).
+		9. Metodologia (6o período - Mat).
+		
+17:10 - 1. Filosofia (2o período - Fis).
+		2. Cultura Religiosa (4o período - Fis).
+		3. Filosofia (2o período - Mat).
+		4. Cultura Religiosa (4o período - Mat).
+		
+19:00 - 1. Cálculo I (1o período - EC).
+		2. GAAL (2o período - EC).
+		3. Geometria e Algebra (3o período - EC).
+		4. LDDM (4o período - EC).
+		5. Arquitetura de Computadores III (5o período - EC).
+		6. Otimização (6o período - EC).
+		7. Introdução à Computação (1o período - ES).
+		8. Programação Modular (2o período - ES).
+		
+20:50 - 1. Introdução à Computação (1o período - EC).
+		2. AED II (2o período - EC).
+		3. Cálculo III (3o período - EC).
+		4. T. Circuitos Elétricos (5o período - EC).
+		5. Redes I (6o período - EC).
+		6. AED I (1o período - ES).
+		
+
+- Liberdade -
+
+07:00 - 1. Cálculo I (Turma 1)(1o período - CC).
+		2. Cultura Religiosa (2o período - CC).
+		3. Cálculo II (3o período - CC).
+		4. Sistemas Operacionais (5o Período - CC).
+		5. Cálculo II (2o período - CD).
+		6. Mineração de Dados por P.(3o período - CD).
+		7. Cálculo I (1o período - EC).
+		8. Cálculo II (2o período - EC).
+		9. Cálculo II (2o período - ES).
+		10. Redes de Computadores (4o período - ES).
+
+08:50 - 1. Cálculo I (Turma 2)(1o período - CC).
+		2. Arquitetura de Computadores II (3o período - CC).
+		3. MAD (4o período - CC).
+		4. PAA (5o período - CC).
+		5. Filosofia (6o período - CC).
+		6. Integração de Dados I (3o período - CD).
+		7. Mineração de Dados Tempor. (4o período - CD).
+		8. Introdução à COmputação (1o período - EC).
+		9. Cálculo I (1o período - ES).
+		10. Filosofia (2o período - ES).
+		11. Eng. de Requisitos (3o período - ES).
+		12. TI 1 - Shoot´em Up (1o período - JD).
+		13. Produção de Jogos - Física (3o período - JD).
+		14. Testes e Qualidade em Jogos (5o período - JD).
+		15. Introdução à Pesquisa (6o período - JD).
+
+10:40 - 1. Arquitetura de Computadores III (5o período - CC).
+		2. Processamento e Análise (6o período - CC).
+		3. Introdução à Computação (1o período - ES).
+		4. Modelagem de Processos (2o período - ES).
+		5. Programação Modular (3o período - ES).
+		6. Projeto de Software (4o período - ES).
+		7. Criação de Assets I (1o período - JD).
+		8. Fundamentos de Design Gráfico (1o período - JD).
+		9. Pipeline de Render Gráfico (2o perído - JD).
+		10. AEDII (3o período - JD).
+		11. Criação de Personagens II (5o período - JD).
+		12. Programação de Shaders (6o período - JD).
+
+13:30 - 1. Computadores e Sociedade (6o período - JD).
+
+19:00 - 1. Introdução à Computação (1o período - ES).
+		2. Cálculo II (2o período - ES).
+		3. Teoria dos Grafos e Computabilidade (3o período - ES).
+		4. Projeto de Software (4o período - ES).
+		5. Teste de Software (5o período - ES).
+		6. Medição e Experimentação (6o período - ES).
+
+20:50 - 1. Cálculo I (1o período - ES).
+		2. Modelagem de Processos (1o período - ES).
+		3. Desenvolvimento de Aplicativos Móveis (5o período - ES).
+		4. Trabalho Interdisciplinar (Turma 1 & 2)(6o período - ES).
+
+
+- São Gabriel -
+
+07:00 - 1. Linguagens de Programação (4o período - EC).
+
+08:50 - 1. Geometria e Algebra (3o período - EC).
+		2. Linguagens de Programação (4o período - EC).
+		3. AED (2o período - SI).
+		4. Eng. de Requisitos e SFTW (4o período - SI).
+
+10:40 - 1. Cálculo III (3o período - EC).
+		2. Fund. Mecânica (4o período - EC).
+		3. Cultura Religiosa (2o período - SI).
+		4. Prog. Orientada por Objetos (3o período - SI).
+		5. Algoritmos em Grafos (4o período - SI).
+
+13:30 -
+
+18:00 - 1. TI 1 - Shoot´em Up (1o período - JD).
+
+19:00 - 1. Fundamentos de Design Gráfico (1o período - JD).
+		2. Prod. Jogos Mobile (2o período - JD).
+		3. AED II (3o período - JD).
+		4. Inteligência Artificial para Jogos (4o período - JD).
+		5. Criação de Personagens II (5o período - JD).
+		6. Introdução à Pesquisa (6o período - JD).
+		7. Filosofia (6o período - JD).
+		8. Filosofia (1o período - SI).
+		9. Prog. Orientada por Objetos (3o período - SI).
+		10. Redes de Computadores I (4o período - SI).
+		11. Desenvolvimento de Aplicações Distribuídas (5o período - SI).
+		12. TI: Pesquisa em Informática.
+		
+
+20:50 - 1. Fundamentos de Matemática (1o período - JD).
+		2. Pipeline de Render Gráfico (2o período - JD).
+		3. Criação de Assets II (3o período - JD).
+		4. Inteligência Artificial para Jogos (4o período - JD).
+		5. Level Design (5o período - JD).
+		6. Introdução à Computação (1o período - SI).
+		7. Arquitetura de Computadores (2o período - SI).
+		8. Algoritmos em Grafos (4o período - SI).
+		9. TI: Aplicações para Sustentabilidade (5o período - SI).
+
+
+- Barreiro -
+
+19:00 - 1. Introdução à Computação (1o período - SI).
+		2. Arquitetura de Computadores (2o período - SI).
+		3. Estatística e Probabilidade (3o período - SI).
+		4. Desenvolvimento de Aplicações Distribuídas (5o período - SI).
+
+20:50 - 1. Filosofia (1o período - SI).
+		2. Cultura Religiosa (2o período - SI).
+		3. Sistemas Operacionais (3o período - SI).
+		4. Desenvolvimento de Aplicações Distribuídas (5o período - SI).
+
+- Betim -
+
+19:00 - 1. Filosofia (1o período - SI).
+		2. Arquitetura de Computadores (2o período - SI).
+		3. Engenharia de Requisitos e SFTW (4o período - SI).
+		4. Cultura Religiosa (6o período - SI).
+
+20:50 - 1. Introdução à Computação (1o período - SI).
+		2. Cultura Religiosa (2o período - SI).
+		3. Redes de Computadores (4o período - SI).
+		4. Business Intelligence (6o período - SI).

@@ -1,0 +1,12 @@
+MISSÃO 1 - Concluir preparação pra vendas:
+
+Pronto:
+	1. Planilhas de informações dos compradores de ingressos.
+	2. Forms para compradores de ingressos.
+	3. Contrato do ingresso.
+	
+Falta:
+	1. Contrato do hotel.
+	2. Contrato do ônibus.
+	3. 
+	
