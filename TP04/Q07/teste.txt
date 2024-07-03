@@ -1,0 +1,59 @@
+INSERINDO: Harry Potter NA POSICAO: 12
+INSERINDO: Seamus Finnigan NA POSICAO: 15
+INSERINDO: Minerva McGonagall NA POSICAO: 13
+INSERINDO: Rubeus Hagrid NA POSICAO: 14
+INSERINDO: Pandora Lovegood NA POSICAO: 18
+INSERINDO: Victoire Weasley NA POSICAO: 3
+INSERINDO: Albus Dumbledore NA POSICAO: 8
+INSERINDO: Kendra Dumbledore NA POSICAO: 18
+INSERINDO: Kendra Dumbledore NA LISTA
+INSERINDO: Luna Lovegood NA POSICAO: 3
+INSERINDO: Luna Lovegood NA LISTA
+INSERINDO: Sirius Black NA POSICAO: 14
+INSERINDO: Sirius Black NA LISTA
+INSERINDO: Lily Potter NA POSICAO: 9
+INSERINDO: George Weasley NA POSICAO: 19
+INSERINDO: Nearly Headless Nick NA POSICAO: 12
+INSERINDO: Nearly Headless Nick NA LISTA
+INSERINDO: Lisa Turpin NA POSICAO: 17
+INSERINDO: Dobby NA POSICAO: 13
+INSERINDO: Dobby NA LISTA
+INSERINDO: Mrs Norris NA POSICAO: 9
+INSERINDO: Mrs Norris NA LISTA
+INSERINDO: Hedwig NA POSICAO: 12
+INSERINDO: Hedwig NA LISTA
+INSERINDO: Petunia Dursley NA POSICAO: 11
+INSERINDO: Dolores Umbridge NA POSICAO: 0
+INSERINDO: Tom Riddle NA POSICAO: 8
+INSERINDO: Tom Riddle NA LISTA
+INSERINDO: Bellatrix Lestrange NA POSICAO: 10
+INSERINDO: Lord Voldemort NA POSICAO: 3
+INSERINDO: Lord Voldemort NA LISTA
+INSERINDO: Miranda Gaushawk NA POSICAO: 5
+INSERINDO: Aberforth Dumbledore NA POSICAO: 10
+INSERINDO: Aberforth Dumbledore NA LISTA
+INSERINDO: Miriam Strout NA POSICAO: 15
+INSERINDO: Miriam Strout NA LISTA
+INSERINDO: Dudley Dursley NA POSICAO: 5
+INSERINDO: Dudley Dursley NA LISTA
+INSERINDO: Garrick Ollivander NA POSICAO: 15
+INSERINDO: Garrick Ollivander NA LISTA
+Lord Voldemort (pos: 6) SIM
+Bathilda Bagshot NAO
+Terry Boot NAO
+Fat Friar NAO
+Seamus Finnigan (pos: 15) SIM
+Ellie Cattermole NAO
+Stubby Boardman NAO
+Newt Scamander NAO
+Rubeus Hagrid (pos: 14) SIM
+Gibbon NAO
+James Potter NAO
+Mr Mason NAO
+Tom Riddle (pos: 12) SIM
+Luna Lovegood (pos: 7) SIM
+Lily Potter (pos: 9) SIM
+George Weasley (pos: 19) SIM
+Lisa Turpin (pos: 17) SIM
+Mrs Norris (pos: 9) SIM
+Petunia Dursley (pos: 11) SIM
