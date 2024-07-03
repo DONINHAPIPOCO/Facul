@@ -1,0 +1,1 @@
+java.io.FileNotFoundException: \tmp\characters.csv (O sistema não pode encontrar o caminho especificado)
