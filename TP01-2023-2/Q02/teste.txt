@@ -1,0 +1,3699 @@
+aça
+j: a - i: a
+j: � - i: �
+NAO
+acaçá
+j: a - i: �
+NAO
+Ada
+j: A - i: a
+NAO
+afã
+j: a - i: �
+NAO
+aia
+j: a - i: a
+SIM
+ala
+j: a - i: a
+SIM
+ama
+j: a - i: a
+SIM
+Ana
+j: A - i: a
+NAO
+anilina
+j: a - i: a
+j: n - i: n
+j: i - i: i
+SIM
+ara
+j: a - i: a
+SIM
+arara
+j: a - i: a
+j: r - i: r
+SIM
+asa
+j: a - i: a
+SIM
+ata
+j: a - i: a
+SIM
+aviva
+j: a - i: a
+j: v - i: v
+SIM
+ele
+j: e - i: e
+SIM
+esse
+j: e - i: e
+j: s - i: s
+SIM
+mamam
+j: m - i: m
+j: a - i: a
+SIM
+mamam
+j: m - i: m
+j: a - i: a
+SIM
+matam
+j: m - i: m
+j: a - i: a
+SIM
+metem
+j: m - i: m
+j: e - i: e
+SIM
+oco
+j: o - i: o
+SIM
+omissíssimo
+j: o - i: o
+j: m - i: m
+j: i - i: i
+j: s - i: s
+j: s - i: s
+j: � - i: �
+NAO
+Omo
+j: O - i: o
+NAO
+osso
+j: o - i: o
+j: s - i: s
+SIM
+Oto
+j: O - i: o
+NAO
+Otto
+j: O - i: o
+NAO
+ovo
+j: o - i: o
+SIM
+racificar
+j: r - i: r
+j: a - i: a
+j: c - i: c
+j: i - i: i
+SIM
+radar
+j: r - i: r
+j: a - i: a
+SIM
+radar
+j: r - i: r
+j: a - i: a
+SIM
+reger
+j: r - i: r
+j: e - i: e
+SIM
+raiar
+j: r - i: r
+j: a - i: a
+SIM
+ralar
+j: r - i: r
+j: a - i: a
+SIM
+ramar
+j: r - i: r
+j: a - i: a
+SIM
+rapar
+j: r - i: r
+j: a - i: a
+SIM
+rasar
+j: r - i: r
+j: a - i: a
+SIM
+reler
+j: r - i: r
+j: e - i: e
+SIM
+reter
+j: r - i: r
+j: e - i: e
+SIM
+reter
+j: r - i: r
+j: e - i: e
+SIM
+rever
+j: r - i: r
+j: e - i: e
+SIM
+reviver
+j: r - i: r
+j: e - i: e
+j: v - i: v
+SIM
+rir
+j: r - i: r
+SIM
+rodador
+j: r - i: r
+j: o - i: o
+j: d - i: d
+SIM
+rotor
+j: r - i: r
+j: o - i: o
+SIM
+sacas
+j: s - i: s
+j: a - i: a
+SIM
+saias
+j: s - i: s
+j: a - i: a
+SIM
+salas
+j: s - i: s
+j: a - i: a
+SIM
+sanas
+j: s - i: s
+j: a - i: a
+SIM
+sapas
+j: s - i: s
+j: a - i: a
+SIM
+saras
+j: s - i: s
+j: a - i: a
+SIM
+sararás
+j: s - i: s
+j: a - i: �
+NAO
+seres
+j: s - i: s
+j: e - i: e
+SIM
+socos
+j: s - i: s
+j: o - i: o
+SIM
+somávamos
+j: s - i: s
+j: o - i: o
+j: m - i: m
+j: � - i: a
+NAO
+somámos
+j: s - i: s
+j: o - i: o
+j: m - i: m
+j: � - i: �
+NAO
+sopapos
+j: s - i: s
+j: o - i: o
+j: p - i: p
+SIM
+Ada
+j: A - i: a
+NAO
+Ana
+j: A - i: a
+NAO
+Anna
+j: A - i: a
+NAO
+Bob
+j: B - i: b
+NAO
+Ebbe
+j: E - i: e
+NAO
+Ebbe
+j: E - i: e
+NAO
+Elle
+j: E - i: e
+NAO
+Eve
+j: E - i: e
+NAO
+Hannah
+j: H - i: h
+NAO
+Menem
+j: M - i: m
+NAO
+Natan
+j: N - i: n
+NAO
+Nauan
+j: N - i: n
+NAO
+Neven
+j: N - i: n
+NAO
+Oto
+j: O - i: o
+NAO
+Otto
+j: O - i: o
+NAO
+Raiar
+j: R - i: r
+NAO
+Renner
+j: R - i: r
+NAO
+Mussum
+j: M - i: m
+NAO
+Bauab
+j: B - i: b
+NAO
+Rever
+j: R - i: r
+NAO
+Lael Leal
+j: L - i: l
+NAO
+Neuquén
+j: N - i: n
+NAO
+Neuquén
+j: N - i: n
+NAO
+Mutum
+j: M - i: m
+NAO
+Acaiaca
+j: A - i: a
+NAO
+Muçum
+j: M - i: m
+NAO
+Mirim
+j: M - i: m
+NAO
+Itati
+j: I - i: i
+NAO
+Ailen - Nélia
+j: A - i: a
+NAO
+abas - sabá
+j: a - i: �
+NAO
+acará - araçá
+j: a - i: �
+NAO
+acém - Meca
+j: a - i: a
+j: c - i: c
+j: � - i: e
+NAO
+aço - oca
+j: a - i: a
+j: � - i: c
+NAO
+Adnan - Nanda
+j: A - i: a
+NAO
+ágil - liga
+j: � - i: a
+NAO
+alas - sala
+j: a - i: a
+j: l - i: l
+j: a - i: a
+j: s - i: s
+j:   - i:  
+SIM
+além - mela
+j: a - i: a
+j: l - i: l
+j: � - i: e
+NAO
+Alani - inala
+j: A - i: a
+NAO
+alô - olá
+j: a - i: �
+NAO
+amam - mama
+j: a - i: a
+j: m - i: m
+j: a - i: a
+j: m - i: m
+j:   - i:  
+SIM
+amor - Roma
+j: a - i: a
+j: m - i: m
+j: o - i: o
+j: r - i: R
+NAO
+amor - romã
+j: a - i: �
+NAO
+amora - aroma
+j: a - i: a
+j: m - i: m
+j: o - i: o
+j: r - i: r
+j: a - i: a
+j:   - i:  
+SIM
+ame - ema
+j: a - i: a
+j: m - i: m
+j: e - i: e
+j:   - i:  
+SIM
+anal - Lana
+j: a - i: a
+j: n - i: n
+j: a - i: a
+j: l - i: L
+NAO
+anel - Lena
+j: a - i: a
+j: n - i: n
+j: e - i: e
+j: l - i: L
+NAO
+anelem - melena
+j: a - i: a
+j: n - i: n
+j: e - i: e
+j: l - i: l
+j: e - i: e
+j: m - i: m
+j:   - i:  
+SIM
+anil - Lina
+j: a - i: a
+j: n - i: n
+j: i - i: i
+j: l - i: L
+NAO
+animal - lâmina
+j: a - i: a
+j: n - i: n
+j: i - i: i
+j: m - i: m
+j: a - i: �
+NAO
+anis - sina
+j: a - i: a
+j: n - i: n
+j: i - i: i
+j: s - i: s
+j:   - i:  
+SIM
+após - sopa
+j: a - i: a
+j: p - i: p
+j: � - i: o
+NAO
+ar - rã
+j: a - i: �
+NAO
+ar - rã
+j: a - i: �
+NAO
+aram - Mara
+j: a - i: a
+j: r - i: r
+j: a - i: a
+j: m - i: M
+NAO
+arar - rara
+j: a - i: a
+j: r - i: r
+j: a - i: a
+j: r - i: r
+j:   - i:  
+SIM
+arco - ocra
+j: a - i: a
+j: r - i: r
+j: c - i: c
+j: o - i: o
+j:   - i:  
+SIM
+are - era
+j: a - i: a
+j: r - i: r
+j: e - i: e
+j:   - i:  
+SIM
+aro - ora
+j: a - i: a
+j: r - i: r
+j: o - i: o
+j:   - i:  
+SIM
+arroz - zorra
+j: a - i: a
+j: r - i: r
+j: r - i: r
+j: o - i: o
+j: z - i: z
+j:   - i:  
+SIM
+assam - massa
+j: a - i: a
+j: s - i: s
+j: s - i: s
+j: a - i: a
+j: m - i: m
+j:   - i:  
+SIM
+assim - missa
+j: a - i: a
+j: s - i: s
+j: s - i: s
+j: i - i: i
+j: m - i: m
+j:   - i:  
+SIM
+atar - rata
+j: a - i: a
+j: t - i: t
+j: a - i: a
+j: r - i: r
+j:   - i:  
+SIM
+atem - meta
+j: a - i: a
+j: t - i: t
+j: e - i: e
+j: m - i: m
+j:   - i:  
+SIM
+aterram - marreta
+j: a - i: a
+j: t - i: t
+j: e - i: e
+j: r - i: r
+j: r - i: r
+j: a - i: a
+j: m - i: m
+j:   - i:  
+SIM
+ator - rota
+j: a - i: a
+j: t - i: t
+j: o - i: o
+j: r - i: r
+j:   - i:  
+SIM
+auge - égua
+j: a - i: a
+j: u - i: u
+j: g - i: g
+j: e - i: �
+NAO
+aval - lava
+j: a - i: a
+j: v - i: v
+j: a - i: a
+j: l - i: l
+j:   - i:  
+SIM
+avaro - orava
+j: a - i: a
+j: v - i: v
+j: a - i: a
+j: r - i: r
+j: o - i: o
+j:   - i:  
+SIM
+ave - Eva
+j: a - i: a
+j: v - i: v
+j: e - i: E
+NAO
+avo - ova
+j: a - i: a
+j: v - i: v
+j: o - i: o
+j:   - i:  
+SIM
+avó - ova
+j: a - i: a
+j: v - i: v
+j: � - i: o
+NAO
+avô - ova
+j: a - i: a
+j: v - i: v
+j: � - i: o
+NAO
+Avon - nova
+j: A - i: a
+NAO
+elo - olé
+j: e - i: �
+NAO
+íris - siri
+j: � - i: i
+NAO
+laicos- social
+j: l - i: l
+j: a - i: a
+j: i - i: i
+j: c - i: c
+j: o - i: o
+j: s - i: s
+j: - - i:  
+NAO
+latem - metal
+j: l - i: l
+j: a - i: a
+j: t - i: t
+j: e - i: e
+j: m - i: m
+j:   - i:  
+SIM
+lavo - oval
+j: l - i: l
+j: a - i: a
+j: v - i: v
+j: o - i: o
+j:   - i:  
+SIM
+Leonam - Manoel
+j: L - i: l
+NAO
+Marrocos - socorram
+j: M - i: m
+NAO
+melar - ralem
+j: m - i: m
+j: e - i: e
+j: l - i: l
+j: a - i: a
+j: r - i: r
+j:   - i:  
+SIM
+melar - ralem
+j: m - i: m
+j: e - i: e
+j: l - i: l
+j: a - i: a
+j: r - i: r
+j:   - i:  
+SIM
+meter - retem
+j: m - i: m
+j: e - i: e
+j: t - i: t
+j: e - i: e
+j: r - i: r
+j:   - i:  
+SIM
+ocas - saco
+j: o - i: o
+j: c - i: c
+j: a - i: a
+j: s - i: s
+j:   - i:  
+SIM
+olor - rolo
+j: o - i: o
+j: l - i: l
+j: o - i: o
+j: r - i: r
+j:   - i:  
+SIM
+orar - raro
+j: o - i: o
+j: r - i: r
+j: a - i: a
+j: r - i: r
+j:   - i:  
+SIM
+ramo - omar
+j: r - i: r
+j: a - i: a
+j: m - i: m
+j: o - i: o
+j:   - i:  
+SIM
+ramos - somar
+j: r - i: r
+j: a - i: a
+j: m - i: m
+j: o - i: o
+j: s - i: s
+j:   - i:  
+SIM
+redil - líder
+j: r - i: r
+j: e - i: e
+j: d - i: d
+j: i - i: �
+NAO
+servil - livres
+j: s - i: s
+j: e - i: e
+j: r - i: r
+j: v - i: v
+j: i - i: i
+j: l - i: l
+j:   - i:  
+SIM
+aceno boneca
+j: a - i: a
+j: c - i: c
+j: e - i: e
+j: n - i: n
+j: o - i: o
+j:   - i: b
+NAO
+acne penca
+j: a - i: a
+j: c - i: c
+j: n - i: n
+j: e - i: e
+j:   - i: p
+NAO
+Anita latina
+j: A - i: a
+NAO
+aperto trepa
+j: a - i: a
+j: p - i: p
+j: e - i: e
+j: r - i: r
+j: t - i: t
+j: o - i:  
+NAO
+laca bacal
+j: l - i: l
+j: a - i: a
+j: c - i: c
+j: a - i: a
+j:   - i: b
+NAO
+ladra pardal
+j: l - i: l
+j: a - i: a
+j: d - i: d
+j: r - i: r
+j: a - i: a
+j:   - i: p
+NAO
+lama ramal
+j: l - i: l
+j: a - i: a
+j: m - i: m
+j: a - i: a
+j:   - i: r
+NAO
+lamina animal
+j: l - i: l
+j: a - i: a
+j: m - i: m
+j: i - i: i
+j: n - i: n
+j: a - i: a
+SIM
+lata Natal
+j: l - i: l
+j: a - i: a
+j: t - i: t
+j: a - i: a
+j:   - i: N
+NAO
+saca macas
+j: s - i: s
+j: a - i: a
+j: c - i: c
+j: a - i: a
+j:   - i: m
+NAO
+rede ceder
+j: r - i: r
+j: e - i: e
+j: d - i: d
+j: e - i: e
+j:   - i: c
+NAO
+rezar prazer
+j: r - i: r
+j: e - i: e
+j: z - i: z
+j: a - i: a
+j: r - i: r
+j:   - i: p
+NAO
+A caca
+j: A - i: a
+NAO
+A caça
+j: A - i: a
+NAO
+A cama-maca
+j: A - i: a
+NAO
+A dama
+j: A - i: a
+NAO
+A droga gorda
+j: A - i: a
+NAO
+A baba
+j: A - i: a
+NAO
+A babá
+j: A - i: �
+NAO
+A Lêda dela
+j: A - i: a
+NAO
+A Lila
+j: A - i: a
+NAO
+A mama
+j: A - i: a
+NAO
+A mama
+j: A - i: a
+NAO
+A mil... Baita...Katia B. Lim
+j: A - i: m
+NAO
+a
+SIM
+A Rua Laura
+j: A - i: a
+NAO
+Ada bêbada
+j: A - i: a
+NAO
+Ada levada velada
+j: A - i: a
+NAO
+Ada nada
+j: A - i: a
+NAO
+Aí, Bia!
+j: A - i: !
+NAO
+Ali, lado Dalila
+j: A - i: a
+NAO
+Anita, a tina! (Antonio de Ca
+j: A - i: a
+NAO
+stro)
+j: s - i: )
+NAO
+Arara rara
+j: A - i: a
+NAO
+É bebê!
+j: � - i: !
+NAO
+Lima a mil
+j: L - i: l
+NAO
+Luz azul
+j: L - i: l
+NAO
+Luz a arara azul
+j: L - i: l
+NAO
+O bobo
+j: O - i: o
+NAO
+O bolo do lobo
+j: O - i: o
+NAO
+O dado
+j: O - i: o
+NAO
+O dedo
+j: O - i: o
+NAO
+Oh! Limonada no milho? (Marce
+j: O - i: e
+NAO
+lo Coimbra Furtado)
+j: l - i: )
+NAO
+O Lilo
+j: O - i: o
+NAO
+O Lu nulo
+j: O - i: o
+NAO
+O selo leso
+j: O - i: o
+NAO
+A Sila lisa
+j: A - i: a
+NAO
+O Silo liso
+j: O - i: o
+NAO
+O trote torto
+j: O - i: o
+NAO
+O vovô
+j: O - i: �
+NAO
+Oi, raro horário!
+j: O - i: !
+NAO
+Oi rato otário!
+j: O - i: !
+NAO
+Oi, gol é relógio? (San Tia
+j: O - i: a
+NAO
+go Caraíva)
+j: g - i: )
+NAO
+Ovos nele, Helen Sovo!
+j: O - i: !
+NAO
+Ralo do dólar
+j: R - i: r
+NAO
+Zé de Lima, Rua Laura, Mil e
+j: Z - i: e
+NAO
+ Dez
+j:   - i: z
+NAO
+Aço Pipoca
+j: A - i: a
+NAO
+Anita latina
+j: A - i: a
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+A base desatola calotas e des
+j: A - i: s
+NAO
+aba
+j: a - i: a
+SIM
+A base do teto desaba (Rômul
+j: A - i: l
+NAO
+o Marinho)
+j: o - i: )
+NAO
+A Capital. Lati paca (Eduardo
+j: A - i: o
+NAO
+ Banks)
+j:   - i: )
+NAO
+A cara rajada da jararaca (Sh
+j: A - i: h
+NAO
+eldon Cooper)
+j: e - i: )
+NAO
+A dama admirou o rim da amada
+j: A - i: a
+NAO
+
+SIM
+A Daniela ama a lei? Nada! (M
+j: A - i: M
+NAO
+arcelo Coimbra Furtado)
+j: a - i: )
+NAO
+Adias a data da saída. (Marc
+j: A - i: c
+NAO
+elo Coimbra Furtado)
+j: e - i: )
+NAO
+A diva ávida, dádiva à vid
+j: A - i: d
+NAO
+a (Rogério Duarte Filho)
+j: a - i: )
+NAO
+A diva em Argel alegra-me a v
+j: A - i: v
+NAO
+ida (Rômulo Marinho)
+j: i - i: )
+NAO
+A droga do dote é todo da go
+j: A - i: o
+NAO
+rda (Rômulo Marinho)
+j: r - i: )
+NAO
+A grama é amarga (Millor Fer
+j: A - i: r
+NAO
+nandes)
+j: n - i: )
+NAO
+Ai, Ravel. Arados, serrotes e
+j: A - i: e
+NAO
+ torres só Dara levaria. Ela
+j:   - i: a
+NAO
+ foi-se (Marcelo Coimbra Furt
+j:   - i: t
+NAO
+ado)
+j: a - i: )
+NAO
+A leda, sacana, ia na casa de
+j: A - i: e
+NAO
+la. (Marcelo Coimbra Furtado)
+j: l - i: )
+NAO
+
+SIM
+A lupa pula (Catarina Lins)
+j: A - i: )
+NAO
+A má (boa?) nova lê Bono: N
+j: A - i: N
+NAO
+obel Avon a Obama (Leo Cunha)
+j: o - i: )
+NAO
+
+SIM
+A maca dos sonos só dá cama
+j: A - i: a
+NAO
+ (Mateus S. Thimóteo)
+j:   - i: )
+NAO
+A mala nada na lama (Millor F
+j: A - i: F
+NAO
+ernandes)
+j: e - i: )
+NAO
+A mira da rima (Mateus S. Thi
+j: A - i: i
+NAO
+móteo)
+j: m - i: )
+NAO
+A miss é péssima!
+j: A - i: !
+NAO
+À Rita, sátira! (Mateus S. 
+j: � - i:  
+NAO
+Thimóteo)
+j: T - i: )
+NAO
+A, seu Gu, tropa da portugues
+j: A - i: s
+NAO
+a? (Mateus S. Thimóteo)
+j: a - i: )
+NAO
+Amarga-me a droga, a gorda é
+j: A - i: �
+NAO
+ magra má (Rogério Duarte F
+j:   - i: F
+NAO
+ilho)
+j: i - i: )
+NAO
+Amo Omã. Se Roma me tem amor
+j: A - i: r
+NAO
+es, amo Omã! (Mateus S. Thim
+j: e - i: m
+NAO
+óteo)
+j: � - i: )
+NAO
+Arroz é zorra (Fernando Fons
+j: A - i: s
+NAO
+eca)
+j: e - i: )
+NAO
+Acata o danado... e o danado 
+j: A - i:  
+NAO
+ataca!
+j: a - i: !
+NAO
+Acinte animal: aos sopapos, s
+j: A - i: s
+NAO
+oa lâmina étnica. (Beto Fur
+j: o - i: r
+NAO
+quim)
+j: q - i: )
+NAO
+Acuda cadela da Leda caduca (
+j: A - i: (
+NAO
+Rômulo Marinho)
+j: R - i: )
+NAO
+Até Reagan sibarita tira bis
+j: A - i: s
+NAO
+naga ereta (Chico Buarque de 
+j: n - i:  
+NAO
+Hollanda)
+j: H - i: )
+NAO
+Até Reagan sibarita tira bis
+j: A - i: s
+NAO
+naga ereta (Chico Buarque de 
+j: n - i:  
+NAO
+Hollanda)
+j: H - i: )
+NAO
+A Daniela ama a lei? Nada! (M
+j: A - i: M
+NAO
+arcelo Coimbra Furtado)
+j: a - i: )
+NAO
+Adias a data da saída (Marce
+j: A - i: e
+NAO
+lo Coimbra Furtado)
+j: l - i: )
+NAO
+Adias aérea saída. (Beto Fu
+j: A - i: u
+NAO
+rquim)
+j: r - i: )
+NAO
+Ah, 'leva eu', que a velha...
+j: A - i: .
+NAO
+ (Mateus S. Thimóteo)
+j:   - i: )
+NAO
+Ah, livre era papai noel, leo
+j: A - i: o
+NAO
+n ia papar é ervilha. (Rogé
+j: n - i: �
+NAO
+rio Duarte Filho)
+j: r - i: )
+NAO
+Ai, Ravel, arados, serrotes e
+j: A - i: e
+NAO
+ torres, só Dara levaria (Ma
+j:   - i: a
+NAO
+rcelo Coimbra Furtado)
+j: r - i: )
+NAO
+Ajudem Edu já! (Ândrey Galv
+j: A - i: v
+NAO
+ão)
+j: � - i: )
+NAO
+Amarga é a maca - tira-a, Ri
+j: A - i: i
+NAO
+ta! cama é a grama... (Marco
+j: t - i: o
+NAO
+s Chrispim)
+j: s - i: )
+NAO
+Ame a ema
+j: A - i: a
+NAO
+Ame o poema
+j: A - i: a
+NAO
+Amil, mera gula, é dia, ide 
+j: A - i:  
+NAO
+alugar em Lima (Ândrey Galv�
+j: a - i: �
+NAO
+�o)
+j: � - i: )
+NAO
+Amor, aniversário: só iras 
+j: A - i:  
+NAO
+revi na Roma (Eduardo Banks)
+j: r - i: )
+NAO
+Amor me açoda, aviva, adoça
+j: A - i: a
+NAO
+ em Roma. (Beto Furquim)
+j:   - i: )
+NAO
+Amora me tem aroma
+j: A - i: a
+NAO
+Ana, case, esse é sacana
+j: A - i: a
+NAO
+Ana lava Lana
+j: A - i: a
+NAO
+Ana me rola, calor emana...
+j: A - i: .
+NAO
+Ana (e Dari) irá reler Ari; 
+j: A - i:  
+NAO
+ira de Ana. (Filipe Prates)
+j: i - i: )
+NAO
+Ana Penélope arder a Lua aci
+j: A - i: i
+NAO
+tore é erótica aula redra e
+j: t - i: e
+NAO
+ pólen e pana. (Eduardo Bank
+j:   - i: k
+NAO
+s)
+j: s - i: )
+NAO
+Ande logo, ela vale o gol, Ed
+j: A - i: d
+NAO
+na! (Marcelo Coimbra Furtado)
+j: n - i: )
+NAO
+
+SIM
+Anotaram a data da maratona (
+j: A - i: (
+NAO
+François S. Oliveira)
+j: F - i: )
+NAO
+A pateta ama até tapa...
+j: A - i: .
+NAO
+A porta rangia à ignara trop
+j: A - i: p
+NAO
+a
+SIM
+Após a sopa
+j: A - i: a
+NAO
+A rara arara
+j: A - i: a
+NAO
+Ar gera regra (Mateus S. Thim
+j: A - i: m
+NAO
+óteo)
+j: � - i: )
+NAO
+Ararás. A cuca roda. Ata é 
+j: A - i:  
+NAO
+bom semear. Assem-a sem ovo, 
+j: b - i:  
+NAO
+mês a mês, sara. E mesmo be
+j: m - i: e
+NAO
+ata, a dor, a cuca sarará. (
+j: a - i: (
+NAO
+Almi Cardoso da Silva)
+j: A - i: )
+NAO
+Arfas a arar solos; rara, a s
+j: A - i: s
+NAO
+afra. (Beto Furquim)
+j: a - i: )
+NAO
+A Rita, sobre vovô, verbos a
+j: A - i: a
+NAO
+tira (Rômulo Marinho)
+j: t - i: )
+NAO
+A roda da Dora
+j: A - i: a
+NAO
+Aro, fala oba idem*. Edu, tiv
+j: A - i: v
+NAO
+e o dna dum eco desse. Aí mo
+j: e - i: o
+NAO
+ço, toma. Zedi, pare de ler 
+j: � - i:  
+NAO
+e vai, ide e levai. Daniel ei
+j: e - i: i
+NAO
+ vai roda tu p*. Moço, o com
+j:   - i: m
+NAO
+putador ia, vi ele inadiável
+j: p - i: l
+NAO
+, e Edi ia ver ele de rapidez
+j: , - i: z
+NAO
+ a moto. Comi a esse doce mud
+j:   - i: d
+NAO
+ando e vi tu de media boa lá
+j: a - i: �
+NAO
+ fora.(Ândrey Galvão)
+j:   - i: )
+NAO
+Aroma. Me supus em amora. (Be
+j: A - i: e
+NAO
+to Furquim)
+j: t - i: )
+NAO
+A sacada da casa
+j: A - i: a
+NAO
+A semana toda lemos: só mela
+j: A - i: a
+NAO
+do tá na mesa (Marcelo Coimb
+j: d - i: b
+NAO
+ra Furtado)
+j: r - i: )
+NAO
+Após a negra falarás: Sara 
+j: A - i:  
+NAO
+Lafarge na sopa! (Euclides Jo
+j: L - i: o
+NAO
+sé Maciel Marques)
+j: s - i: )
+NAO
+Arame na cidade? Mele-o! Ele 
+j: A - i:  
+NAO
+faz a fé, Léo! Ele me dá d
+j: f - i: d
+NAO
+ica, né, Mara? (Mateus S. Th
+j: i - i: h
+NAO
+imóteo)
+j: i - i: )
+NAO
+Arara, vi paca e a capivara. 
+j: A - i:  
+NAO
+Rá! (Mateus S. Thimóteo)
+j: R - i: )
+NAO
+Asa, caneta, arroz, radar, zo
+j: A - i: o
+NAO
+rra: até na casa? (Mateus S.
+j: r - i: .
+NAO
+ Thimóteo)
+j:   - i: )
+NAO
+Assim a aia ia à missa (Mill
+j: A - i: l
+NAO
+or Fernandes)
+j: o - i: )
+NAO
+Assim a aluna anula a missa
+j: A - i: a
+NAO
+Até na cana, to na Lua. Paul
+j: A - i: l
+NAO
+, anota na caneta (Ândrey Ga
+j: , - i: a
+NAO
+lvão)
+j: l - i: )
+NAO
+Até Reagan sibarita tira bis
+j: A - i: s
+NAO
+naga ereta (Chico Buarque)
+j: n - i: )
+NAO
+A sogra má e amargosa
+j: A - i: a
+NAO
+Atino?banana bonita.
+j: A - i: .
+NAO
+Atlas, omissíssimo, salta. (
+j: A - i: (
+NAO
+Beto Furquim)
+j: B - i: )
+NAO
+Ato idiota
+j: A - i: a
+NAO
+A torre da derrota
+j: A - i: a
+NAO
+Aula na Lua (Mateus S. Thimó
+j: A - i: �
+NAO
+teo)
+j: t - i: )
+NAO
+Aula sobre verbos à Lua (Mat
+j: A - i: t
+NAO
+eus S. Thimóteo)
+j: e - i: )
+NAO
+A Varig girava (Diogo Vasconc
+j: A - i: c
+NAO
+ellos Lima)
+j: e - i: )
+NAO
+A Varig girava (Diogo Vasconc
+j: A - i: c
+NAO
+ellos Lima)
+j: e - i: )
+NAO
+Ave veloz o leve. Vá!
+j: A - i: !
+NAO
+É a mateira Marieta mãe?
+j: � - i: ?
+NAO
+É cova! Puxa, amo tossir e a
+j: � - i: a
+NAO
+me! De o dna Rô! Mano, a Tha
+j: m - i: a
+NAO
+isi? Ah, tão namorando! É d
+j: i - i: d
+NAO
+e mãe (risso). Toma, axu pá
+j: e - i: �
+NAO
+ voce! (Ândrey Galvão Barbo
+j:   - i: o
+NAO
+sa)
+j: s - i: )
+NAO
+E Amaro? Faz a paz afora, mã
+j: E - i: �
+NAO
+e. (Bruno Prates)
+j: e - i: )
+NAO
+E assim a missa é
+j: E - i: �
+NAO
+E até o Papa poeta é” (R�
+j: E - i: �
+NAO
+�mulo Marinho)
+j: � - i: )
+NAO
+É, fala! A, reza! Fala! Ó, 
+j: � - i:  
+NAO
+jura: mão de 11 é do(a) mar
+j: j - i: r
+NAO
+ujo(a) Lá, fazer a Alá fé!
+j: u - i: !
+NAO
+ (Mateus S. Thimóteo)
+j:   - i: )
+NAO
+E Leda, sacana, ia na casa de
+j: E - i: e
+NAO
+le (Marcelo Coimbra Furtado)
+j: l - i: )
+NAO
+Ema, só após merecerem sopa
+j: E - i: a
+NAO
+ os ame. (Beto Furquim)
+j:   - i: )
+NAO
+Ele padece da pele
+j: E - i: e
+NAO
+E telas eram usadas à caneta
+j: E - i: a
+NAO
+ até na casa da Sumaré, Sal
+j:   - i: l
+NAO
+ete!
+j: e - i: !
+NAO
+E toma, leva, roda a missa. R
+j: E - i: R
+NAO
+eza fará prazer... e lave-me
+j: e - i: e
+j: z - i: m
+NAO
+, ótimo é o demo, evite o a
+j: , - i: a
+NAO
+zar, evite-se esse mês. Acor
+j: z - i: r
+NAO
+de pedroca sem esse (e se tiv
+j: d - i: v
+NAO
+e razão, e tive) o medo é o
+j: e - i: o
+NAO
+ mito e me vale rezar para fa
+j:   - i: a
+NAO
+zer assim. À Adorável, amo-
+j: z - i: -
+NAO
+te. (Rogério Duarte Filho)
+j: t - i: )
+NAO
+E troca a corte! (Mateus S. T
+j: E - i: T
+NAO
+himóteo)
+j: h - i: )
+NAO
+E vá após a sopa, ave! (Mat
+j: E - i: t
+NAO
+eus S. Thimóteo)
+j: e - i: )
+NAO
+É volitar ter a ave... Lico 
+j: � - i:  
+NAO
+domina e lê. Ática, Ana Mor
+j: d - i: r
+NAO
+ale, a ti, Paolo, todavia, re
+j: a - i: e
+NAO
+lê. Assinada, ela fala: ‘�
+j: l - i: �
+NAO
+�� Sai, cala, foge, retrata, 
+j: � - i:  
+NAO
+vá, ó Satim! (repetem o nos
+j: v - i: s
+NAO
+so nome). Te permitas o avata
+j: s - i: a
+NAO
+r ter ego. Falácias, Alá, f
+j: r - i: f
+NAO
+ale à Danissa!’ Ele, raiva
+j: a - i: a
+j: l - i: v
+NAO
+ do tolo, apita... Ela, roman
+j:   - i: n
+NAO
+a, a cita. Ele, ânimo dócil
+j: a - i: l
+NAO
+... Eva, a retrátil, o vê! 
+j: . - i:  
+NAO
+(Herbert Saavedra)
+j: ( - i: )
+NAO
+Em roda, tropa, após a sopa,
+j: E - i: ,
+NAO
+ à porta dorme (Rômulo Mari
+j:   - i: i
+NAO
+nho)
+j: n - i: )
+NAO
+Ésio, fale! Ai, Ravel, arado
+j: � - i: o
+NAO
+s, serrotes e torres só Dara
+j: s - i: a
+NAO
+ levaria. Ela foi-se (Marcelo
+j:   - i: o
+NAO
+ Coimbra Furtado)
+j:   - i: )
+NAO
+És sapo? Passe
+j: � - i: e
+NAO
+Eta, longe Egno late (Mateus 
+j: E - i:  
+NAO
+S. Thimóteo)
+j: S - i: )
+NAO
+Eu, neto; vovô, tênue (Leo 
+j: E - i:  
+NAO
+Cunha)
+j: C - i: )
+NAO
+Eva, asse essa ave
+j: E - i: e
+NAO
+Eva, asse e pape essa ave
+j: E - i: e
+NAO
+Ia, vem e vai (Mateus S. Thim
+j: I - i: m
+NAO
+óteo)
+j: � - i: )
+NAO
+Ias em missa? Logo o gol assi
+j: I - i: i
+NAO
+m me sai... (Marcos Chrispim)
+j: m - i: )
+NAO
+
+SIM
+Íris ama siri (Ítalo Louren
+j: � - i: n
+NAO
+ço)
+j: � - i: )
+NAO
+Ítalo, lati (Mateus S. Thim�
+j: � - i: �
+j: � - i: m
+NAO
+�teo)
+j: � - i: )
+NAO
+Fica fácil escrever palindro
+j: F - i: o
+NAO
+mos com nomes próprios, como
+j: m - i: o
+NAO
+ fazem Mezaf Omocso, Irporp S
+j:   - i: S
+NAO
+emon, Mocs Omord, Nila Prever
+j: e - i: r
+NAO
+cs e Lica Facif. (Rodrigo Mar
+j: c - i: r
+NAO
+çal e Marco Vieira)
+j: � - i: )
+NAO
+Girava Varig (Mateus S. Thim�
+j: G - i: �
+NAO
+�teo)
+j: � - i: )
+NAO
+Há gaz no Gonzaga. (Antonio 
+j: H - i:  
+NAO
+de Castro Rocha Jr)
+j: d - i: )
+NAO
+Há gaz no Gonzaga. (Antonio 
+j: H - i:  
+NAO
+de Castro Rocha Jr)
+j: d - i: )
+NAO
+Há gaz no Gonzaga. (Antonio 
+j: H - i:  
+NAO
+de Castro Rocha Jr)
+j: d - i: )
+NAO
+Laço bacana para panaca boç
+j: L - i: �
+NAO
+al (Rômulo Marinho)
+j: a - i: )
+NAO
+Lael é leal! (Ricardo Biesek
+j: L - i: k
+NAO
+)
+SIM
+Lá tá no novo; e sem o cali
+j: L - i: i
+NAO
+fa na fila come-se ovo no Nat
+j: f - i: t
+NAO
+al. (Antonio Prates)
+j: a - i: )
+NAO
+Lá tem metal.
+j: L - i: .
+NAO
+Lavo ovo oval (Mateus S. Thim
+j: L - i: m
+NAO
+óteo)
+j: � - i: )
+NAO
+Lena me teve (tem) anel (Mate
+j: L - i: e
+NAO
+us S. Thimóteo)
+j: u - i: )
+NAO
+Liga: se sobes sebos, és ág
+j: L - i: g
+NAO
+il. (Beto Furquim)
+j: i - i: )
+NAO
+Livre do poder vil (Rogério 
+j: L - i:  
+NAO
+Duarte Filho)
+j: D - i: )
+NAO
+Luza Rocelina, a namorada do 
+j: L - i:  
+NAO
+Manuel, leu na “Moda da Rom
+j: M - i: m
+NAO
+ana”: “Anil é cor azul�
+j: a - i: �
+NAO
+�
+SIM
+Maria, Selena e Anele saíram
+j: M - i: m
+NAO
+ (Euclides José Maciel Marqu
+j:   - i: u
+NAO
+es)
+j: e - i: )
+NAO
+Marujos só juram
+j: M - i: m
+NAO
+Mata da TAM (Mateus S. Thimó
+j: M - i: �
+NAO
+teo)
+j: t - i: )
+NAO
+Modo: som tiramos, somamos so
+j: M - i: o
+NAO
+m a ritmos: o dom (Rômulo Ma
+j: m - i: a
+NAO
+rinho)
+j: r - i: )
+NAO
+Morram após a sopa marrom
+j: M - i: m
+NAO
+Navio MOCS? Ueh, ta Matheus c
+j: N - i: c
+NAO
+om o Ivan? (Ivan Souza de And
+j: o - i: d
+NAO
+rade, p/ o filho, Matheus B.W
+j: r - i: W
+NAO
+.A)
+j: . - i: )
+NAO
+O caso da droga da gorda do s
+j: O - i: s
+NAO
+aco
+j: a - i: o
+NAO
+O céu sueco
+j: O - i: o
+NAO
+O Cid é médico
+j: O - i: o
+NAO
+O Decamerão: are, Macedo (Ed
+j: O - i: d
+NAO
+uardo Banks)
+j: u - i: )
+NAO
+O Demo é tema, sua causa met
+j: O - i: t
+NAO
+e o medo. (San Tiago Caraíva
+j: e - i: a
+NAO
+)
+SIM
+Ódio do doido!
+j: � - i: !
+NAO
+O Gal. Leno Roca, à porta da
+j: O - i: a
+NAO
+ cidade, a portador relata fa
+j:   - i: a
+NAO
+tal erro da tropa e dá dica 
+j: t - i:  
+NAO
+da tropa a Coronel Lago (Rôm
+j: d - i: m
+NAO
+ulo Marinho)
+j: u - i: )
+NAO
+O galo ama o lago
+j: O - i: o
+NAO
+O galo no lago
+j: O - i: o
+NAO
+Ó, mas adoro rodas: amo! (Ma
+j: � - i: a
+NAO
+teus S. Thimóteo)
+j: t - i: )
+NAO
+Oh! Limonada no milho? (Marce
+j: O - i: e
+NAO
+lo Coimbra Furtado)
+j: l - i: )
+NAO
+Oh nossas luvas avulsas, sonh
+j: O - i: h
+NAO
+o... (Rogério Duarte Filho)
+j: o - i: )
+NAO
+Oh, nó de Mara medonho!(Glet
+j: O - i: t
+NAO
+son Aguiar Martins)
+j: s - i: )
+NAO
+Oi, nó! Medo do demônio? (M
+j: O - i: M
+NAO
+ateus S. Thimóteo)
+j: a - i: )
+NAO
+Oi, nó! Medo do demônio? (M
+j: O - i: M
+NAO
+ateus S. Thimóteo)
+j: a - i: )
+NAO
+Oi! Leva arara? - Ave Lio!
+j: O - i: !
+NAO
+O Ivan ama navio (Ivan Nicoli
+j: O - i: i
+NAO
+)
+SIM
+Olá tio Ítalo (Ítalo Loure
+j: O - i: e
+NAO
+nço)
+j: n - i: )
+NAO
+O lobo ama o bolo
+j: O - i: o
+NAO
+O mero remo (Ítalo Lourenço
+j: O - i: o
+NAO
+)
+SIM
+O mito é ótimo
+j: O - i: o
+NAO
+O pó de cocaína mata manía
+j: O - i: a
+NAO
+co cedo, pô!
+j: c - i: !
+NAO
+O pó de cocaína mata manía
+j: O - i: a
+NAO
+co cedo, pô!
+j: c - i: !
+NAO
+Orar é em missa? Assim me é
+j: O - i: �
+NAO
+ raro! (Mateus S. Thimóteo)
+j:   - i: )
+NAO
+O romano acata amores a damas
+j: O - i: s
+NAO
+ amadas e Roma ataca o namoro
+j:   - i: o
+NAO
+
+SIM
+O romano do namoro (Mateus S.
+j: O - i: .
+NAO
+ Thimóteo)
+j:   - i: )
+NAO
+Oslo: o clã é de álcool s�
+j: O - i: �
+NAO
+� (Leo Cunha)
+j: � - i: )
+NAO
+O tal é o rio leve na neve l
+j: O - i: l
+NAO
+oiro e lato (Roberto F. Silve
+j: o - i: e
+NAO
+stre)
+j: s - i: )
+NAO
+O tapa. Oh! Li-me, Datena. Co
+j: O - i: o
+NAO
+ma arroz. Ó, não é o ano. 
+j: m - i:  
+NAO
+Zorra: amo: caneta; de milho 
+j: Z - i:  
+NAO
+a pato (Mateus S. Thimóteo)
+j: a - i: )
+NAO
+O teu drama é amar dueto
+j: O - i: o
+NAO
+O terrível é ele vir reto (
+j: O - i: (
+NAO
+Rômulo Marinho)
+j: R - i: )
+NAO
+Oto come doce seco de mocotó
+j: O - i: �
+NAO
+ (Rômulo Marinho)
+j:   - i: )
+NAO
+Oto come mocotó
+j: O - i: �
+NAO
+O treco certo
+j: O - i: o
+NAO
+O voo do ovo
+j: O - i: o
+NAO
+Ramo do mar (Mateus S. Thimó
+j: R - i: �
+NAO
+teo)
+j: t - i: )
+NAO
+Reverta é verbo, O vivo brev
+j: R - i: v
+NAO
+e é, Sabe bem amá-lo o Lama
+j: e - i: a
+NAO
+, Me beba se é verbo vivo, O
+j: , - i: O
+NAO
+ breve atrever. (Rogério Dua
+j:   - i: a
+NAO
+rte Filho)
+j: r - i: )
+NAO
+Rezar pro Pedro (morde por pr
+j: R - i: r
+NAO
+azer). (Bruno Prates)
+j: a - i: )
+NAO
+Rir, o breve verbo rir
+j: R - i: r
+NAO
+Roda esse corpo, processe a d
+j: R - i: d
+NAO
+or!
+j: o - i: !
+NAO
+Roma é amor
+j: R - i: r
+NAO
+Roma? Eu? Que amor... (Mateus
+j: R - i: s
+NAO
+ S. Thimóteo) - primeira fra
+j:   - i: a
+NAO
+se palíndroma com a letra Q
+j: s - i: Q
+NAO
+Roma me tem amor
+j: R - i: r
+NAO
+Sá dá tapas e sapatadas
+j: S - i: s
+NAO
+Sá, grave Vargas
+j: S - i: s
+NAO
+Saíram o tio e oito marias
+j: S - i: s
+NAO
+Sais sem o casaco, Messias?
+j: S - i: ?
+NAO
+Salta o Atlas
+j: S - i: s
+NAO
+Saltaram o mar, Atlas
+j: S - i: s
+NAO
+Seco de raiva, coloco no colo
+j: S - i: o
+NAO
+ caviar e doces
+j:   - i: s
+NAO
+Sem o dote, é todo mês
+j: S - i: s
+NAO
+Ser belo, lebres!
+j: S - i: !
+NAO
+_Seres saro há horas! _Seres
+j: _ - i: s
+NAO
+?!
+j: ? - i: !
+NAO
+Se rota, sô, ave leva os ato
+j: S - i: o
+NAO
+res!
+j: r - i: !
+NAO
+Soam-me ótimos os reversos: 
+j: S - i:  
+NAO
+o mito em mãos!
+j: o - i: !
+NAO
+Só com o tio somávamos oito
+j: S - i: o
+NAO
+ moços
+j:   - i: s
+NAO
+Só Dnira mata tamarindos...
+j: S - i: .
+NAO
+Socorram Marrocos
+j: S - i: s
+NAO
+Socorram-me em Marrocos!
+j: S - i: !
+NAO
+Socorram-me, subi no ônibus 
+j: S - i:  
+NAO
+em Marrocos!
+j: e - i: !
+NAO
+Soluçou em meu óculos
+j: S - i: s
+NAO
+Só melado tá na mesa a sema
+j: S - i: a
+NAO
+na toda, Lemos!
+j: n - i: !
+NAO
+Sorri. P.S.: espirros!
+j: S - i: !
+NAO
+SOS, A Varig girava, SOS
+j: S - i: S
+j: O - i: O
+j: S - i: S
+j: , - i:  
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+Subi no ônibus
+j: S - i: s
+NAO
+Tucano na CUT
+j: T - i: T
+j: u - i: U
+NAO
+Zé de Lima, Rua Laura, mil e
+j: Z - i: e
+NAO
+ dez
+j:   - i: z
+NAO
+Zé do dez
+j: Z - i: z
+NAO
+Livro da dor vil.
+j: L - i: .
+NAO
+O Norton no trono.
+j: O - i: .
+NAO
+O pavão vê arara, só vi ur
+j: O - i: r
+NAO
+ubu ruivo sarará e voava pô
+j: u - i: �
+NAO
+!
+SIM
+Ria, só tive sorte má, a me
+j: R - i: e
+NAO
+tros evito sair.
+j: t - i: .
+NAO
+Acinte animal: aos sopapos, s
+j: A - i: s
+NAO
+oa lâmina étnica. (Beto Fur
+j: o - i: r
+NAO
+quim)
+j: q - i: )
+NAO
+Adias aérea saída. (Beto Fu
+j: A - i: u
+NAO
+rquim)
+j: r - i: )
+NAO
+Ame a ema.
+j: A - i: .
+NAO
+Amar Donato idiota no drama. 
+j: A - i:  
+NAO
+(Laura Oliveira)
+j: ( - i: )
+NAO
+Amor me açoda, e aviva, e ad
+j: A - i: d
+NAO
+oça em Roma. (Beto Furquim)
+j: o - i: )
+NAO
+Amor, me ama em Roma?
+j: A - i: ?
+NAO
+Ande, Edna.
+j: A - i: .
+NAO
+Ante Atlas, Oto salta Etna
+j: A - i: a
+NAO
+Após a sopa.
+j: A - i: .
+NAO
+Arre! Sem o erre, o mês erra
+j: A - i: a
+NAO
+. (Beto Furquim)
+j: . - i: )
+NAO
+Arfas a arar solos; rara, a s
+j: A - i: s
+NAO
+afra. (Beto Furquim)
+j: a - i: )
+NAO
+Assam a massa.
+j: A - i: .
+NAO
+Assim a aluna anula a missa.
+j: A - i: .
+NAO
+Atlas, omissíssimo, salta (B
+j: A - i: B
+NAO
+eto Furquim)
+j: e - i: )
+NAO
+E assim a missa é.
+j: E - i: .
+NAO
+Ai,é legal a geleia
+j: A - i: a
+NAO
+Ema, só após merecerem sopa
+j: E - i: a
+NAO
+ os ame. (Beto Furquim)
+j:   - i: )
+NAO
+Eu, ué!
+j: E - i: !
+NAO
+Eu acuo Laura na ciririca na 
+j: E - i:  
+NAO
+rua louca, ué (Laura Oliveir
+j: r - i: r
+j: u - i: i
+NAO
+a)
+j: a - i: )
+NAO
+Eva, asse essa ave.
+j: E - i: .
+NAO
+Liga: se sobes sebos, és ág
+j: L - i: g
+NAO
+il. (Beto Furquim)
+j: i - i: )
+NAO
+Matem e metam. (Euclides Jos�
+j: M - i: �
+NAO
+� Maciel Marques)
+j: � - i: )
+NAO
+Maus matutam, suam. (Beto Fur
+j: M - i: r
+NAO
+quim)
+j: q - i: )
+NAO
+Morram após a sopa marrom.
+j: M - i: .
+NAO
+Omitiram radar marítimo.
+j: O - i: .
+NAO
+Omitiram radar marítimo.
+j: O - i: .
+NAO
+Omitiram radar marítimo.
+j: O - i: .
+NAO
+Omito osso ótimo.
+j: O - i: .
+NAO
+Orar é em missa? Assim me é
+j: O - i: �
+NAO
+ raro! (Mateus S. Thimóteo)
+j:   - i: )
+NAO
+Oras e saro. (Guilherme Pedro
+j: O - i: o
+NAO
+so)
+j: s - i: )
+NAO
+Os Maias saíam só. (Tulio)
+j: O - i: )
+NAO
+Raul e Íris: após sopapos, 
+j: R - i:  
+NAO
+sopa, siri e luar. (Beto Furq
+j: s - i: q
+NAO
+uim)
+j: u - i: )
+NAO
+Roma é amor.
+j: R - i: .
+NAO
+Salta o Atlas.
+j: S - i: .
+NAO
+Somar me em Ramos. (Celia L. 
+j: S - i:  
+NAO
+Ribeiro)
+j: R - i: )
+NAO
+Roma me tem amor.
+j: R - i: .
+NAO
+Aula na rua é aura na lua (L
+j: A - i: L
+NAO
+aura Oliveira)
+j: a - i: )
+NAO
+A diva da dívida da vida. (L
+j: A - i: L
+NAO
+aura Oliveira)
+j: a - i: )
+NAO
+Socorram Marrocos.
+j: S - i: .
+NAO
+Somos seres, somos?!?! Seres 
+j: S - i:  
+NAO
+somos !?!? (Paulo Cezar Antun
+j: s - i: n
+NAO
+es Junior)
+j: e - i: )
+NAO
+SOS: somos sós
+j: S - i: s
+NAO
+Zed lota o atol dez (Hemeteri
+j: Z - i: i
+NAO
+o)
+j: o - i: )
+NAO
+Sopas suam, e Solar/Somar soa
+j: S - i: a
+NAO
+ animal marítimo; livres are
+j:   - i: e
+NAO
+s anula acinte, à reviver, a
+j: s - i: a
+NAO
+ étnica aluna será servil? 
+j:   - i:  
+j: � - i: ?
+NAO
+Omitiram lâmina aos ramos ra
+j: O - i: a
+NAO
+los e maus sapos (Giuliano Fr
+j: l - i: r
+NAO
+atin)
+j: a - i: )
+NAO
+Sós,nossos palermas sapos s�
+j: S - i: �
+NAO
+� passam relapsos,sonsos!
+j: � - i: !
+NAO
+Óto come doce seco de mocot�
+j: � - i: �
+j: � - i: t
+NAO
+�
+SIM
+Subi no ônibus
+j: S - i: s
+NAO
+A base do teto desaba. (Rômu
+j: A - i: u
+NAO
+lo Marinho)
+j: l - i: )
+NAO
+A diva ávida, dádiva à vid
+j: A - i: d
+NAO
+a (Rogério Duarte Filho)
+j: a - i: )
+NAO
+Ah, livre era papai noel, leo
+j: A - i: o
+NAO
+n ia papar é ervilha. (Rogé
+j: n - i: �
+NAO
+rio Duarte Filho)
+j: r - i: )
+NAO
+A cara rajada da jararaca. (M
+j: A - i: M
+NAO
+anu Lafer)
+j: a - i: )
+NAO
+Acata o danado... e o danado 
+j: A - i:  
+NAO
+ataca!
+j: a - i: !
+NAO
+Acuda cadela da Leda caduca (
+j: A - i: (
+NAO
+Rômulo Marinho)
+j: R - i: )
+NAO
+A dama admirou o rim da amada
+j: A - i: a
+NAO
+.
+SIM
+A Daniela ama a lei? Nada! (M
+j: A - i: M
+NAO
+arcelo Coimbra Furtado)
+j: a - i: )
+NAO
+Adias a data da saída. (Marc
+j: A - i: c
+NAO
+elo Coimbra Furtado)
+j: e - i: )
+NAO
+Adão, Tejo hereje, gere hoje
+j: A - i: e
+NAO
+ toada. (pintado num muro da 
+j:   - i:  
+j: t - i: a
+NAO
+UFRJ)
+j: U - i: )
+NAO
+Omitiram o nobre verbo no mar
+j: O - i: r
+NAO
+ítimo (San Tiago Caraíva)
+j: � - i: )
+NAO
+A droga do dote é todo da go
+j: A - i: o
+NAO
+rda. (Rômulo Marinho)
+j: r - i: )
+NAO
+A diva em Argel alegra-me a v
+j: A - i: v
+NAO
+ida. (Rômulo Marinho)
+j: i - i: )
+NAO
+A grama é amarga. (Millor Fe
+j: A - i: e
+NAO
+rnandes)
+j: r - i: )
+NAO
+Ah, Caetano, e Leona te acha?
+j: A - i: ?
+NAO
+ (Ederson Dantas)
+j:   - i: )
+NAO
+Ai, Ed... O Oto odeia! (Eders
+j: A - i: s
+NAO
+on Dantas)
+j: o - i: )
+NAO
+Ai, Ravel, arados, serrotes e
+j: A - i: e
+NAO
+ torres, só Dara levaria. El
+j:   - i: l
+NAO
+a foi-se” (Marcelo Coimbra 
+j: a - i:  
+NAO
+Furtado)
+j: F - i: )
+NAO
+A ira cava na vacaria.(Gléts
+j: A - i: s
+NAO
+on Aguiar Martins)
+j: o - i: )
+NAO
+Amada dama (Jederson L. Ribei
+j: A - i: i
+NAO
+ro)
+j: r - i: )
+NAO
+A mala nada na lama. (Millôr
+j: A - i: r
+NAO
+ Fernandes)
+j:   - i: )
+NAO
+A lua panamenha agita, fatiga
+j: A - i: a
+NAO
+. Ah! Nem Ana Paula...(Noguer
+j: . - i: r
+NAO
+ol)
+j: o - i: )
+NAO
+Amada rapariga agira para dam
+j: A - i: m
+NAO
+a.
+j: a - i: .
+NAO
+Amarelo cadaver tá; é a tre
+j: A - i: e
+NAO
+va da cólera má. (Manu Lafe
+j: v - i: e
+NAO
+r)
+j: r - i: )
+NAO
+Amarga é a maca - tira-a, Ri
+j: A - i: i
+NAO
+ta! Cama é a grama... (Marco
+j: t - i: o
+NAO
+s Chrispim)
+j: s - i: )
+NAO
+Amarga-me a droga, a gorda é
+j: A - i: �
+NAO
+ magra má. (Rogério Duarte 
+j:   - i:  
+j: m - i: e
+NAO
+Filho)
+j: F - i: )
+NAO
+Ame o poema.
+j: A - i: .
+NAO
+A miss é péssima!
+j: A - i: !
+NAO
+Amora me tem aroma.
+j: A - i: .
+NAO
+Amor é de Roma. (Iuan Melo M
+j: A - i: M
+NAO
+eirelles)
+j: e - i: )
+NAO
+Ana, case, esse é sacana.
+j: A - i: .
+NAO
+Ana (e Dari) irá reler Ari; 
+j: A - i:  
+NAO
+ira de Ana. (Filipe Prates)
+j: i - i: )
+NAO
+Ana lava Lana.
+j: A - i: .
+NAO
+Anali amada dama ilana. (Ada 
+j: A - i:  
+NAO
+Jéssica da Silva)
+j: J - i: )
+NAO
+Ana me rola, calor emana...
+j: A - i: .
+NAO
+Ande logo, ela vale o gol, Ed
+j: A - i: d
+NAO
+na! (Marcelo Coimbra Furtado)
+j: n - i: )
+NAO
+
+SIM
+Anotaram a data da maratona.
+j: A - i: .
+NAO
+A pateta ama até tapa...
+j: A - i: .
+NAO
+A porta rangia à ignara trop
+j: A - i: p
+NAO
+a.
+j: a - i: .
+NAO
+A rara arara.
+j: A - i: .
+NAO
+Ararás. A cuca roda. Ata é 
+j: A - i:  
+NAO
+bom semear. Assem-a sem ovo, 
+j: b - i:  
+NAO
+mês a mês, sara. E mesmo be
+j: m - i: e
+NAO
+ata, a dor, a cuca sarará. (
+j: a - i: (
+NAO
+Almi Cardoso da Silva)
+j: A - i: )
+NAO
+A Rita, sobre vovô, verbos a
+j: A - i: a
+NAO
+tira. (Rômulo Marinho)
+j: t - i: )
+NAO
+Arroz é a mata, mãe zorra! 
+j: A - i:  
+NAO
+(Herbert Saavedra)
+j: ( - i: )
+NAO
+A sacada da casa.
+j: A - i: .
+NAO
+A semana toda lemos: só mela
+j: A - i: a
+NAO
+do tá na mesa. (Marcelo Coim
+j: d - i: m
+NAO
+bra Furtado)
+j: b - i: )
+NAO
+Após a negra falarás: Sara 
+j: A - i:  
+NAO
+Lafarge na Sopa! (Euclides Jo
+j: L - i: o
+NAO
+sé Maciel Marques)
+j: s - i: )
+NAO
+Assim, a sopa só mereceremos
+j: A - i: s
+NAO
+ após a missa.
+j:   - i: .
+NAO
+Assim a aia ia à missa. (Mil
+j: A - i: l
+NAO
+lor Fernandes)
+j: l - i: )
+NAO
+Assim a diva Ana Rita, em Rom
+j: A - i: m
+NAO
+a, amor me atira, na ávida m
+j: a - i: m
+NAO
+issa.
+j: i - i: .
+NAO
+Até Reagan sibarita tira bis
+j: A - i: s
+NAO
+naga ereta. (Chico Buarque)
+j: n - i: )
+NAO
+Ato idiota.
+j: A - i: .
+NAO
+Ator Aran adia, vai danar a r
+j: A - i: r
+NAO
+ota (Jederson L. Ribeiro)
+j: o - i: )
+NAO
+A torre da derrota.
+j: A - i: .
+NAO
+A torre da derrota.
+j: A - i: .
+NAO
+Auê só nos EUA! (Hemeterio)
+j: A - i: )
+NAO
+
+SIM
+Ave veloz o leve. Vá!
+j: A - i: !
+NAO
+A vida é a diva!
+j: A - i: !
+NAO
+Bola de tênis, sinete da LOB
+j: B - i: B
+j: o - i: O
+NAO
+. (Bruno Prates) [LOB é uma 
+j: . - i:  
+NAO
+academia de tênis no Rio de 
+j: a - i:  
+NAO
+Janeiro]
+j: J - i: ]
+NAO
+E Amaro? Faz a paz afora, mã
+j: E - i: �
+NAO
+e. (Bruno Prates)
+j: e - i: )
+NAO
+É a mateira Marieta mãe?
+j: � - i: ?
+NAO
+E até o Papa poeta é.” (R
+j: E - i: R
+NAO
+ômulo Marinho)
+j: � - i: )
+NAO
+É a vossa meta mor: amarga, 
+j: � - i:  
+NAO
+letal, amável. Lá ele murmu
+j: l - i: u
+NAO
+rou que todo amor eu quero. M
+j: r - i: M
+NAO
+ão do teu quorum. Rum é lea
+j: � - i: a
+NAO
+l. Leva mala, tela, grama... 
+j: l - i:  
+NAO
+Roma, temas, sova é! (Herber
+j: R - i: r
+NAO
+t Saavedra)
+j: t - i: )
+NAO
+E depile na lâmina o raro an
+j: E - i: n
+NAO
+imal anelípede. (Gelson)
+j: i - i: )
+NAO
+E Leda, sacana, ia na casa de
+j: E - i: e
+NAO
+le. (Marcelo Coimbra Furtado)
+j: l - i: )
+NAO
+
+SIM
+Em roda, tropa, após a sopa,
+j: E - i: ,
+NAO
+ à porta dorme.” (Rômulo 
+j:   - i:  
+j: � - i: o
+NAO
+Marinho)
+j: M - i: )
+NAO
+E dá dica, dona Issa, com am
+j: E - i: m
+NAO
+igos: “Amo-te!” E toma s�
+j: i - i: �
+NAO
+� Gim.Amo Cassiano da cidade!
+j: � - i: !
+NAO
+” (Estêvão Queiroga)
+j: � - i: )
+NAO
+Ele padece da pele  (Ana Juli
+j: E - i: i
+NAO
+a Licio).
+j: a - i: .
+NAO
+- E nota Leda? Ávida, dá re
+j: - - i: e
+NAO
+médio. Dose por dose divide.
+j: m - i: .
+NAO
+ Divide só, Dr. O pé só d�
+j:   - i: �
+NAO
+�i. De mera dádiva a delato,
+j: � - i: ,
+NAO
+ né? (Estêvão Queiroga)
+j:   - i: )
+NAO
+Esse sai. Opa! E me apóias e
+j: E - i: e
+NAO
+sse! (Ederson Dantas)
+j: s - i: )
+NAO
+És sapo? Passe.
+j: � - i: .
+NAO
+Eva, asse e pape essa ave.
+j: E - i: .
+NAO
+E toma, leva, roda a missa. R
+j: E - i: R
+NAO
+eza fará prazer... e lave-me
+j: e - i: e
+j: z - i: m
+NAO
+, ótimo é o demo, evite o a
+j: , - i: a
+NAO
+zar, evite-se esse mês. Acor
+j: z - i: r
+NAO
+de pedroca sem esse (e se tiv
+j: d - i: v
+NAO
+e razão, e tive) o medo é o
+j: e - i: o
+NAO
+ mito e me vale rezar para fa
+j:   - i: a
+NAO
+zer assim. À Adorável, amo-
+j: z - i: -
+NAO
+te. (Rogério Duarte Filho)
+j: t - i: )
+NAO
+“É volitar ter a ave... Li
+j: � - i: i
+NAO
+co domina e lê. Ática, Ana 
+j: c - i:  
+NAO
+Morale, a ti, Paolo, todavia,
+j: M - i: ,
+NAO
+ relê. Assinada, ela fala: �
+j:   - i: �
+NAO
+��– Sai, cala, foge, retrat
+j: � - i: t
+NAO
+a, vá, ó Satim! (repetem o 
+j: a - i:  
+NAO
+nosso nome). Te permitas o av
+j: n - i: v
+NAO
+atar ter ego. Falácias, Alá
+j: a - i: �
+NAO
+, fale à Danissa!’ Ele, ra
+j: , - i: a
+NAO
+iva do tolo, apita... Ela, ro
+j: i - i: o
+NAO
+mana, a cita. Ele, ânimo dó
+j: m - i: �
+NAO
+cil... Eva, a retrátil, o v�
+j: c - i: �
+NAO
+�!” (Herbert Saavedra)
+j: � - i: )
+NAO
+Ias em missa? Logo o gol assi
+j: I - i: i
+NAO
+m me sai... (Marcos Chrispim)
+j: m - i: )
+NAO
+
+SIM
+Laço bacana para panaca boç
+j: L - i: �
+NAO
+al. (Rômulo Marinho)
+j: a - i: )
+NAO
+Lá Renê gorava o avaro gene
+j: L - i: e
+NAO
+ral. (Eduardo Vidili)
+j: r - i: )
+NAO
+Lá tá no novo; e sem o cali
+j: L - i: i
+NAO
+fa na fila come-se ovo no Nat
+j: f - i: t
+NAO
+al. (Antonio Prates)
+j: a - i: )
+NAO
+Lá vou eu em meu eu oval. (M
+j: L - i: M
+NAO
+arina Wisnik)
+j: a - i: )
+NAO
+Amada data, cera é ter ré d
+j: A - i: d
+NAO
+a vela: leva, derrete a recat
+j: a - i: t
+NAO
+ada dama. (Manu Lafer)
+j: a - i: )
+NAO
+Livre do poder vil (Rogério 
+j: L - i:  
+NAO
+Duarte Filho)
+j: D - i: )
+NAO
+Livros - se for pagar, traga 
+j: L - i:  
+NAO
+professor vil. (Laerte Coutin
+j: p - i: n
+NAO
+ho)
+j: h - i: )
+NAO
+Luza Rocelina, a namorada do 
+j: L - i:  
+NAO
+Manuel, leu na 'Moda da Roman
+j: M - i: n
+NAO
+a': 'Anil é cor azul.' (Boca
+j: a - i: a
+j: ' - i: c
+NAO
+ge?)
+j: g - i: )
+NAO
+Luz azul
+j: L - i: l
+NAO
+Mar e número remuneram (San 
+j: M - i:  
+NAO
+Tiago Caraíva)
+j: T - i: )
+NAO
+Maria, Selena e Anele saíram
+j: M - i: m
+NAO
+ (Euclides José Maciel Marqu
+j:   - i: u
+NAO
+es)
+j: e - i: )
+NAO
+Mari, Rose, Ari e Ed adiavam,
+j: M - i: ,
+NAO
+ sem a mesma vaidade e ira, e
+j:   - i: e
+NAO
+ só riram.(Túlio F.T.de Sou
+j:   - i: u
+NAO
+sa)
+j: s - i: )
+NAO
+Marujos só juram
+j: M - i: m
+NAO
+Me vê se a panela da moça �
+j: M - i: �
+NAO
+� de aço, Madalena Paes, e v
+j: � - i: v
+NAO
+em.”
+j: e - i: �
+NAO
+Missa. A atam na luz. Alá fa
+j: M - i: a
+NAO
+la: Fá-la, Zulan, mata-a, as
+j: l - i: s
+NAO
+sim! (Herbert Saavedra)
+j: s - i: )
+NAO
+Moça morde Pégasus e Jesus?
+j: M - i: ?
+NAO
+ Age, Pedro maçom! (Eduardo 
+j:   - i:  
+j: A - i: o
+NAO
+Vidili)
+j: V - i: )
+NAO
+Modo: som tiramos, somamos so
+j: M - i: o
+NAO
+m a ritmos: o dom.” (Rômul
+j: m - i: l
+NAO
+o Marinho)
+j: o - i: )
+NAO
+Morra, mata marrom! (Larissa 
+j: M - i:  
+NAO
+Bontempi)
+j: B - i: )
+NAO
+O caso da droga da gorda do s
+j: O - i: s
+NAO
+aco.
+j: a - i: .
+NAO
+O céu sueco.
+j: O - i: .
+NAO
+O Cid é médico.
+j: O - i: .
+NAO
+Ódio do doido!
+j: � - i: !
+NAO
+O Gal. Leno Roca, à porta da
+j: O - i: a
+NAO
+ cidade, a portador relata fa
+j:   - i: a
+NAO
+tal erro da tropa e dá dica 
+j: t - i:  
+NAO
+da tropa a Coronel Lago. (Rô
+j: d - i: �
+NAO
+mulo Marinho)
+j: m - i: )
+NAO
+O galo nada no lago. (Sergio 
+j: O - i:  
+NAO
+Alberto Schneider)
+j: A - i: )
+NAO
+O Ivan a ama à navio... (Iva
+j: O - i: a
+NAO
+n Souza de Andrade)
+j: n - i: )
+NAO
+Oi, rato otário.
+j: O - i: .
+NAO
+Oi,Val! Fez o ovo do vô, o Z
+j: O - i: Z
+NAO
+é Flávio? (Flávio Bueno Ma
+j: � - i: a
+NAO
+rcondes Oliveira)
+j: r - i: )
+NAO
+Olá Valor, eu quero lavá-lo
+j: O - i: o
+NAO
+ (Rogério Duarte Filho)
+j:   - i: )
+NAO
+Oh nossas luvas avulsas, sonh
+j: O - i: h
+NAO
+o... (Rogério Duarte Filho)
+j: o - i: )
+NAO
+O lobo ama o bolo.
+j: O - i: .
+NAO
+O mito é ótimo.
+j: O - i: .
+NAO
+Ô gela gema, ame galego!(Gl�
+j: � - i: �
+j: � - i: l
+NAO
+�tson Aguiar Martins)
+j: � - i: )
+NAO
+O ovo vovô !! Voô ! (Paulo 
+j: O - i:  
+NAO
+Cezar Antunes Junior, complem
+j: C - i: m
+NAO
+ento de Marcel Horner)
+j: e - i: )
+NAO
+O pó de cocaína mata manía
+j: O - i: a
+NAO
+co cedo, pô!
+j: c - i: !
+NAO
+Oro e temo meteoro. (Glétson
+j: O - i: n
+NAO
+ Aguiar Martins)
+j:   - i: )
+NAO
+O romano acata amores a damas
+j: O - i: s
+NAO
+ amadas e Roma ataca o namoro
+j:   - i: o
+NAO
+.
+SIM
+O teu drama é amar dueto. (R
+j: O - i: R
+NAO
+ômulo Marinho)
+j: � - i: )
+NAO
+Ota, o ator, trota o ato (Hem
+j: O - i: m
+NAO
+eterio)
+j: e - i: )
+NAO
+Òto, come ovo e mocotó (Heu
+j: � - i: u
+NAO
+mesmo)
+j: m - i: )
+NAO
+O terrível é ele vir reto. 
+j: O - i:  
+NAO
+(Rômulo Marinho)
+j: ( - i: )
+NAO
+Oto come doce seco de mocotó
+j: O - i: �
+NAO
+. (Rômulo Marinho)
+j: . - i: )
+NAO
+O treco certo.
+j: O - i: .
+NAO
+Ovo novo.
+j: O - i: .
+NAO
+O voo do ovo.
+j: O - i: .
+NAO
+Lê:tapa,raso,sarapatel!(Glé
+j: L - i: �
+NAO
+tson Aguiar Martins)
+j: t - i: )
+NAO
+Só Ivan, o tio, é dono de o
+j: S - i: o
+NAO
+ito navios. (Antônio José d
+j: i - i: d
+NAO
+e Carvalho)
+j: e - i: )
+NAO
+O corte dói, dê-me remédio
+j: O - i: o
+NAO
+ de troco. (Antônio José de
+j:   - i: e
+NAO
+ Carvalho)
+j:   - i: )
+NAO
+Roma se doa toda à ira, Mari
+j: R - i: i
+NAO
+a, adota o desamor. (Antônio
+j: a - i: o
+NAO
+ José de Carvalho )
+j:   - i: )
+NAO
+ O Narciso é livre, servil �
+j:   - i: �
+NAO
+� o sicrano. (Antônio José 
+j: � - i:  
+NAO
+de Carvalho)
+j: d - i: )
+NAO
+ O mito é ele Pelé, e ótim
+j:   - i: m
+NAO
+o. (Antônio José de Carvalh
+j: o - i: h
+NAO
+o)
+j: o - i: )
+NAO
+ Nos dê o gol logo, Edson. (
+j:   - i: (
+NAO
+Antônio José de Carvalho)
+j: A - i: )
+NAO
+ Saltar o meteoro é temor, A
+j:   - i: A
+NAO
+tlas. (Antônio José de Carv
+j: t - i: v
+NAO
+alho)
+j: a - i: )
+NAO
+Raoni, tal psicose... peso ci
+j: R - i: i
+NAO
+splatino, AR. (pintado num mu
+j: s - i: u
+NAO
+ro da UFRJ)
+j: r - i: )
+NAO
+Reter e rever para prever e r
+j: R - i: r
+NAO
+eter. (Rômulo Marinho)
+j: e - i: )
+NAO
+Reverta é verbo, O vivo brev
+j: R - i: v
+NAO
+e é, Sabe bem ama-lo o Lama,
+j: e - i: ,
+NAO
+ Me beba se é verbo vivo, O 
+j:   - i:  
+j: M - i: O
+NAO
+breve atrever. (Rogério Duar
+j: b - i: r
+NAO
+te Filho)
+j: t - i: )
+NAO
+Rezar pro Pedro (morde por pr
+j: R - i: r
+NAO
+azer). (Bruno Prates)
+j: a - i: )
+NAO
+Rir, o breve verbo rir.
+j: R - i: .
+NAO
+Roda esse corpo, processe a d
+j: R - i: d
+NAO
+or!
+j: o - i: !
+NAO
+Rô! Sono do cubano Nabucodon
+j: R - i: n
+NAO
+osor.(Glétson Aguiar Martins
+j: o - i: s
+NAO
+)
+SIM
+Roma me tem amor.
+j: R - i: .
+NAO
+Sá dá tapas e sapatadas.
+j: S - i: .
+NAO
+Saíram o tio e oito Marias.
+j: S - i: .
+NAO
+Seco de raiva, coloco no colo
+j: S - i: o
+NAO
+ caviar e doces. (Rômulo Mar
+j:   - i: r
+NAO
+inho)
+j: i - i: )
+NAO
+Sem o dote, é todo mês.
+j: S - i: .
+NAO
+Só com o tio somávamos oito
+j: S - i: o
+NAO
+ moços. (Rômulo Marinho)
+j:   - i: )
+NAO
+Soa como caos
+j: S - i: s
+NAO
+Socorram-me, subi no ônibus 
+j: S - i:  
+NAO
+em Marrocos!
+j: e - i: !
+NAO
+S.O.S., seres matam seres só
+j: S - i: �
+NAO
+s! (Paulo Cezar Antunes Junio
+j: s - i: o
+NAO
+r)
+j: r - i: )
+NAO
+Subi no ônibus.
+j: S - i: .
+NAO
+Tucano na CUT (Rômulo Marinh
+j: T - i: h
+NAO
+o)
+j: o - i: )
+NAO
+Vi Êmulo vetar até volume I
+j: V - i: I
+NAO
+V. (Rômulo Marinho)
+j: V - i: )
+NAO
+Zé de Lima, rua Laura, mil e
+j: Z - i: e
+NAO
+ dez.
+j:   - i: .
+NAO
+A gorda não voa na droga! (L
+j: A - i: L
+NAO
+uiz Pedro)
+j: u - i: )
+NAO
+Resumamos: soma m, use r !(Gl
+j: R - i: l
+NAO
+étson Aguiar Martins)
+j: � - i: )
+NAO
+Neda Lnib ama só Osama Bin L
+j: N - i: L
+NAO
+aden.(Glétson Aguiar Martins
+j: a - i: s
+NAO
+)
+SIM
+Só metemos.(Pedro Augusto Ch
+j: S - i: h
+NAO
+izzolini Lonel)
+j: i - i: )
+NAO
+Uruburetama ama Teruburu. (Gl
+j: U - i: l
+NAO
+étson Aguiar Martins)
+j: � - i: )
+NAO
+Amo La Paloma (Giuliano Frati
+j: A - i: i
+NAO
+n)
+j: n - i: )
+NAO
+Livro da dor vil. (Joir Mauro
+j: L - i: o
+NAO
+)
+SIM
+Arara só vi urubu ruivo sara
+j: A - i: a
+NAO
+rá! (Sérgio Igrés)
+j: r - i: )
+NAO
+A dar açúcar é ser açucar
+j: A - i: r
+NAO
+ada? (Sérgio Igrés)
+j: a - i: )
+NAO
+A vó cadaver tá na treva da
+j: A - i: a
+NAO
+ cova! (Sérgio Igrés)
+j:   - i: )
+NAO
+Ao ver tubarão no ar abutre 
+j: A - i:  
+NAO
+voa. (Sérgio Igrés)
+j: v - i: )
+NAO
+Ele,crocodilo,sólido corcel 
+j: E - i:  
+NAO
+é! (Sérgio Igrés)
+j: � - i: )
+NAO
+Encare ter acne! (Sérgio Igr
+j: E - i: r
+NAO
+és)
+j: � - i: )
+NAO
+Se sofro,matemático só cita
+j: S - i: a
+NAO
+ metamorfoses! (Sérgio Igré
+j:   - i: �
+NAO
+s)
+j: s - i: )
+NAO
+Ein Esel lese nie.
+j: E - i: .
+NAO
+Den ret tapre Knud Åge i Eg�
+j: D - i: �
+NAO
+� dunker patter ned.
+j: � - i: .
+NAO
+Den laks skal ned.
+j: D - i: .
+NAO
+Den laks skal ned.
+j: D - i: .
+NAO
+Damejer Nis Berg greb sin rej
+j: D - i: j
+NAO
+emad.
+j: e - i: .
+NAO
+Elsa har fat i Rita fra Hasle
+j: E - i: e
+NAO
+.
+SIM
+Lås oksemaden ned og giv Vig
+j: L - i: g
+NAO
+go denne dameskosål.
+j: g - i: .
+NAO
+Degnene traf i farten en ged.
+j: D - i: .
+NAO
+
+SIM
+Tre negre med fane, en af dem
+j: T - i: m
+NAO
+ er genert.
+j:   - i: .
+NAO
+Selmas lakserøde garagedøre
+j: S - i: e
+NAO
+ skal samles.
+j:   - i: .
+NAO
+Trolde med lort.
+j: T - i: .
+NAO
+Able was I ere I saw Elba (fr
+j: A - i: r
+NAO
+ase que poderia ter sido dita
+j: a - i: a
+j: s - i: t
+NAO
+ por Napoleão depois de derr
+j:   - i: r
+NAO
+otado em Waterloo)
+j: o - i: )
+NAO
+A man, a plan, a canal, Panam
+j: A - i: m
+NAO
+a!
+j: a - i: !
+NAO
+Cigar? Toss it in a can, it i
+j: C - i: i
+NAO
+s so tragic.
+j: s - i: .
+NAO
+Dennis and Edna sinned.
+j: D - i: .
+NAO
+Doc, note, I dissent: a fast 
+j: D - i:  
+NAO
+never prevents a fatness; I d
+j: n - i: d
+NAO
+iet on cod.
+j: i - i: .
+NAO
+God, no evil, live on dog.
+j: G - i: .
+NAO
+God lived as a devil dog.
+j: G - i: .
+NAO
+I love me, Vol I.
+j: I - i: .
+NAO
+I roamed under it, a tired nu
+j: I - i: u
+NAO
+de maori.
+j: d - i: .
+NAO
+Lewd did I live & evil I did 
+j: L - i:  
+NAO
+dwel.
+j: d - i: .
+NAO
+Madam, I'm Adam.
+j: M - i: .
+NAO
+Mad as Sadam. (Cassiano Leone
+j: M - i: e
+NAO
+lli e Estêvão Queiroga)
+j: l - i: )
+NAO
+Nat saw I was tan.
+j: N - i: .
+NAO
+Not a hero wore hat on
+j: N - i: n
+NAO
+Satan oscillate my metallic s
+j: S - i: s
+NAO
+onatas (as palavras escritas 
+j: o - i:  
+NAO
+juntas formam o título de um
+j: j - i: m
+NAO
+ EP da banda Soundgarden)
+j:   - i: )
+NAO
+See, slave, I demonstrate yet
+j: S - i: t
+NAO
+ arts no medieval sees. (Geor
+j:   - i: r
+NAO
+ges Perec)
+j: g - i: )
+NAO
+Stop no top a pot on pots
+j: S - i: s
+NAO
+Sums are not set as a test on
+j: S - i: n
+NAO
+ Erasmus.
+j:   - i: .
+NAO
+Was it a car or a cat I saw?
+j: W - i: ?
+NAO
+1234554321
+j: 1 - i: 1
+j: 2 - i: 2
+j: 3 - i: 3
+j: 4 - i: 4
+j: 5 - i: 5
+SIM
+123456789
+j: 1 - i: 9
+NAO
+123.4567
+j: 1 - i: 7
+NAO
+2345,6543
+j: 2 - i: 3
+NAO
+234,445,555
+j: 2 - i: 5
+NAO
+2212.23432.234325
+j: 2 - i: 5
+NAO
+127.1.1.1
+j: 1 - i: 1
+j: 2 - i: .
+NAO
+127,0,0,0
+j: 1 - i: 0
+NAO
+,05
+j: , - i: 5
+NAO
+.12
+j: . - i: 2
+NAO
+12.
+j: 1 - i: .
+NAO
+123,
+j: 1 - i: ,
+NAO
+FIM
+j: F - i: M
+NAO
