@@ -204,13 +204,47 @@ class Pokemon{
 
     }
 
+    private static String preparaLinha(String s) {
+        boolean ehArray = false;
+        String resp = "";
+        for(int i = 0; i < s.length(); i++) {
+            if('[' == s.charAt(i)) {
+                ehArray = true;
+
+            } else if(']' == s.charAt(i)) {
+                ehArray = false;
+
+            }
+
+            if(ehArray) {
+                if(s.charAt(i) == ','){
+                    resp += ";";
+
+                } else {
+                    resp += s.charAt(i);
+
+                }
+
+            } else {
+                resp += s.charAt(i);
+
+            }
+
+        }
+
+        return resp;
+
+    }
+
     public static ArrayList<Pokemon> ler(String nomeArquivo) throws ParseException{
         ArrayList<Pokemon> resp = new ArrayList<Pokemon>();
 
         try(BufferedReader bf = new BufferedReader(new FileReader(nomeArquivo))){
             String line = bf.readLine();
             while((line = bf.readLine()) != null){
-                String[] splits = line.split(",");
+                String prepLine = preparaLinha(line);
+                
+                String[] splits = prepLine.split(",");
                 Pokemon pokemon = new Pokemon();
                 
                 pokemon.setId(splits[0] != null ? Integer.parseInt(splits[0]) : -1);
@@ -218,10 +252,10 @@ class Pokemon{
                 pokemon.setName(splits[2] != null ? splits[2] : "");
                 pokemon.setDescription(splits[3] != null ? splits[3] : "");
                 
-                String[] types = splits[4].split(",");
+                String[] types = splits[4].split(";");
                 pokemon.setTypes(types);
 
-                String[] abilities = splits[5].split(",");
+                String[] abilities = splits[5].split(";");
                 pokemon.setAbilities(abilities);
                 
                 pokemon.setWeight(splits[6] != null ? Double.parseDouble(splits[6]) : -1);
@@ -275,9 +309,9 @@ class Pokemon{
 
         }
 
-        ArrayList<Pokemon> array = Pokemon.ler("C:/Users/User/Documents/Facul/AED2/TP02/Q01-Classe em Java/pokemon.csv");
+        //ArrayList<Pokemon> array = Pokemon.ler("C:/Users/User/Documents/Facul/AED2/TP02/Q01-Classe em Java/pokemon.csv");
 
-        //ArrayList<Pokemon> array = Pokemon.ler("/tmp/pokemon.csv");
+        ArrayList<Pokemon> array = Pokemon.ler("/tmp/pokemon.csv");
         HashMap<Integer, Pokemon> map = new HashMap<>();
 
         for (Pokemon pokemon : array) {
