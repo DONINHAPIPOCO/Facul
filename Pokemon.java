@@ -186,7 +186,7 @@ class Pokemon{
             this.getAbilities()[i] = this.getAbilities()[i].replace("[", "");
             this.getAbilities()[i] = this.getAbilities()[i].replace("]", "");
             this.getAbilities()[i] = this.getAbilities()[i].replace("'", "");
-            System.out.print(this.getTypes()[i]);
+            System.out.print(this.getAbilities()[i]);
             if (i < this.getAbilities().length - 1) {
                 System.out.print(", ");
 
@@ -204,67 +204,132 @@ class Pokemon{
 
     }
 
-    private static String preparaLinha(String s) {
-        boolean ehArray = false;
-        String resp = "";
-        for(int i = 0; i < s.length(); i++) {
-            if('[' == s.charAt(i)) {
-                ehArray = true;
+    private static String[] getArrayAbilities(String line) throws Exception{
+        if(line.isEmpty()) {
+            throw new Exception("ERRO AO RECUPERAR ARRAY DE HABILIDADES! Linha vazia!!!");
 
-            } else if(']' == s.charAt(i)) {
-                ehArray = false;
+        } else {
+            String substring = line.substring(line.indexOf("["), line.indexOf("]"));
+            substring.replace("[", "");
+            substring.replace("]", "");
 
-            }
+            String[] abilities = substring.split(",");
 
-            if(ehArray) {
-                if(s.charAt(i) == ','){
-                    resp += ";";
-
-                } else {
-                    resp += s.charAt(i);
-
-                }
-
-            } else {
-                resp += s.charAt(i);
-
-            }
+            return abilities;
 
         }
 
-        return resp;
 
     }
 
-    public static ArrayList<Pokemon> ler(String nomeArquivo) throws ParseException{
+    private static String[] getArrayTypes(String line) throws Exception {
+        if(line.isEmpty()) {
+            throw new Exception("ERRO AO RECUPERAR ARRAY DE TIPOS! Linha Vazia!!!");
+
+        } else {
+            String[] types = new String[2];
+            String[] splits = line.split(",");
+
+            types[0] = splits[4];
+            types[1] = splits[5];
+
+            return types;
+
+        }
+
+    }
+
+    public static ArrayList<Pokemon> ler(String nomeArquivo) throws ParseException, Exception{
         ArrayList<Pokemon> resp = new ArrayList<Pokemon>();
 
         try(BufferedReader bf = new BufferedReader(new FileReader(nomeArquivo))){
             String line = bf.readLine();
             while((line = bf.readLine()) != null){
-                String prepLine = preparaLinha(line);
-                
-                String[] splits = prepLine.split(",");
+                String[] splits = line.split(",", -1);
                 Pokemon pokemon = new Pokemon();
-                
-                pokemon.setId(splits[0] != null ? Integer.parseInt(splits[0]) : -1);
-                pokemon.setGeneration(splits[1] != null ? Integer.parseInt(splits[1]) : -1);
-                pokemon.setName(splits[2] != null ? splits[2] : "");
-                pokemon.setDescription(splits[3] != null ? splits[3] : "");
-                
-                String[] types = splits[4].split(";");
-                pokemon.setTypes(types);
 
-                String[] abilities = splits[5].split(";");
-                pokemon.setAbilities(abilities);
-                
-                pokemon.setWeight(splits[6] != null ? Double.parseDouble(splits[6]) : -1);
-                pokemon.setHeight(splits[7] != null ? Double.parseDouble(splits[7]) : -1);
-                pokemon.setCaptureRate(splits[8] != null ? Integer.parseInt(splits[8]) : -1);
-                pokemon.setLegendary(splits[9].equals("1") ? true : false);
+                int i = 0;
 
-                SimpleDateFormat formato = new SimpleDateFormat("dd-MM-yyyy");
-                pokemon.setCaptureDate(formato.parse(splits[10] != null ? splits[10] : "00000000"));
+                
+                try {
+                    pokemon.setId(Integer.parseInt(splits[i]));
+                    i++;
+                } catch(Exception e) {
+                    pokemon.setId(0);
+
+                }
+
+                try {
+                    pokemon.setGeneration(Integer.parseInt(splits[i]));
+                    i++;
+                } catch(Exception e) {
+                    pokemon.setGeneration(0);
+
+                }
+
+                try {
+                    pokemon.setName(splits[i]);
+                    i++;
+                } catch(Exception e) {
+                    pokemon.setName("NULL");
+
+                }
+
+                try {
+                    pokemon.setDescription(splits[i]);
+                    i++;
+                } catch(Exception e) {
+                    pokemon.setDescription("NULL");
+
+                }
+ 
+                pokemon.setTypes(getArrayTypes(line));
+
+                pokemon.setAbilities(getArrayAbilities(line));
+
+                try {
+                    pokemon.setWeight(Double.parseDouble(splits[8]));
+                } catch(Exception e) {
+                    pokemon.setWeight(0);
+
+                }
+                
+                try {
+                    pokemon.setHeight(Double.parseDouble(splits[9]));
+                } catch(Exception e) {
+                    pokemon.setHeight(0);
+
+                }
+
+                try {
+                    pokemon.setCaptureRate(Integer.parseInt(splits[10]));
+                } catch(Exception e) {
+                    pokemon.setCaptureRate(0);
+
+                }
+
+                try {
+                    pokemon.setLegendary("1".equals(splits[11]));
+                } catch(Exception e) {
+                    pokemon.setLegendary(false);
+
+                }
+
+                try {
+                    pokemon.setLegendary("1".equals(splits[11]));
+                } catch(Exception e) {
+                    pokemon.setLegendary(false);
+
+                }
+
+                try {
+                    SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy");
+                    pokemon.setCaptureDate(formato.parse(splits[12]));
+                } catch(Exception e) {
+                    SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy");
+                    pokemon.setCaptureDate(formato.parse("01/01/1970"));
+
+                }
 
                 resp.add(pokemon);
 
@@ -290,7 +355,7 @@ class Pokemon{
 
     }
 
-    public static void main(String[] args) throws ParseException{
+    public static void main(String[] args) throws ParseException, Exception{
         String[] entrada = new String[5000];
         int numEntrada = 0;
 
