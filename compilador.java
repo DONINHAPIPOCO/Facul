@@ -4,9 +4,9 @@ import java.io.*;
 public class compilador{
     public static Scanner sc = new Scanner(System.in);
 
-    public static char opCode(String Mneumonico){
+    public static char opCode(String Mnemonico){
         char op = '0';
-        switch (Mneumonico) {
+        switch (Mnemonico) {
             case "umL;":
                 op = '0';
                 break;
