@@ -1,5 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.text.ParseException;
@@ -375,11 +376,13 @@ class PokemonSelecao {
     //QUESTÃO 05 - TP02: ORDENAÇÃO POR SELEÇÃO
     //==========================================================================================
     public static void selectionSort(PokemonSelecao[] array) {
+        long startTime = System.nanoTime();
+        
         for(int i = 0; i < array.length - 1; i++) {
             int menorIndex = i;
 
             for(int j = i + 1; j < array.length; j++) {
-                if(array[j].getName().compareTo(array[i].getName()) < 0) {
+                if(array[j].getName().compareTo(array[menorIndex].getName()) < 0) {
                     menorIndex = j;
 
                 }
@@ -389,6 +392,18 @@ class PokemonSelecao {
             PokemonSelecao tmp = array[menorIndex];
             array[menorIndex] = array[i];
             array[i] = tmp;
+
+        }
+
+        long endTime = System.nanoTime();
+
+        long executionTime = endTime - startTime;
+
+        try(BufferedReader br = new BufferedReader(new FileWriter("SelectionLog.txt", true))) {
+            
+
+        } catch(Exception e) {
+
 
         }
 
@@ -426,20 +441,21 @@ class PokemonSelecao {
         }
 
         //CRIAÇÃO DO ARRAY LIST DE POKEMON E EXECUÇÃO DA LEITURA DO CSV ========================
-        ArrayList<PokemonSelecao> array = PokemonSelecao.ler("C:/Users/User/Documents/Facul/AED2/TP02/Q01-Classe em Java/pokemon.csv");
-        //ArrayList<Pokemon> array = Pokemon.ler("/tmp/pokemon.csv");
+        //ArrayList<PokemonSelecao> array = PokemonSelecao.ler("C:/Users/User/Documents/Facul/AED2/TP02/Q01-Classe em Java/pokemon.csv");
+        ArrayList<PokemonSelecao> array = PokemonSelecao.ler("/tmp/pokemon.csv");
 
         //CRIAÇÃO DE VETOR PARA PESQUISA SEQUENCIAL ============================================
-        PokemonSelecao[] arrayPesquisa = new PokemonSelecao[300];
+        PokemonSelecao[] arraySelecao = new PokemonSelecao[numEntrada];
         for (int i = 0; i < numEntrada; i++) {
-            arrayPesquisa[i] = pesquisarPorID(Integer.parseInt(entrada[i]), array);
+            arraySelecao[i] = pesquisarPorID(Integer.parseInt(entrada[i]), array);
 
         }
         
-        //PESQUISAR NOMES DA ENTRADA E PRINTAR "SIM" CASO EXISTAM E "NAO" CASO NÃO EXISTAM =====
-        for (int i = 0; i < numEntradaNames; i++) {
-            if(pesquisaSequencial(arrayPesquisa, entradaNames[i])) System.out.println("SIM"); 
-            else System.out.println("NAO");
+        selectionSort(arraySelecao);
+
+        //PRINT DO ARRAY ORDENADO ==============================================================
+        for (int i = 0; i < arraySelecao.length; i++) {
+            arraySelecao[i].print();
 
         }
 
