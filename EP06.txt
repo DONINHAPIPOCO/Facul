@@ -1,0 +1,195 @@
+EP-06: MIPS
+Luis Felipe Souza Lopes - 654663
+
+#================================================ QUESTÃO 01
+#EP-06: Questão 1
+#Luis Felipe Souza Lopes - 654663
+
+#======================================
+#Programa:
+
+# a = 2;
+# b = 3;
+# c = 4;
+# d = 5;
+# x = (a + b) - (c + d);
+# y = a - b + x;
+# b = x - y;
+#======================================
+
+# a -> $s0, b -> $s1, c -> $s2, d -> $s3, x -> $s4, y -> $s5
+
+#inicio
+.text
+.globl main
+
+main:
+addi $s0, $zero, 2  # a = 2
+addi $s1, $zero, 3  # b = 3
+addi $s2, $zero, 4  # c = 4
+addi $s3, $zero, 5  # d = 5
+add $t0, $s0, $s1   # $t0 = a + b
+add $t1, $s2, $s3   # $t1 = c + d
+sub $s4, $t0, $t1   # x = $t0(a + b) - $t1(c + d)
+sub $t0, $s0, $s1   # $t0 = a - b
+add $s5, $t0, $s4   # y = $t0(a - b) + x
+sub $s1, $s4, $s5   # b = x - y
+#================================================
+
+#================================================ QUESTÃO 02
+#EP-06: Questão 2
+#Luis Felipe Souza Lopes - 654663
+
+#======================================
+#Programa:
+
+# x = 1;
+# y = 5*x + 15;
+#======================================
+
+# x -> $s0, y -> $s1
+
+#inicio
+.text
+.globl main
+
+main:
+ori $s0, $zero, 1  # x = 1
+add $t0, $s0, $s0  # $t0 = x + x
+add $t0, $t0, $t0  # $t0 = 2x + 2x
+add $t0, $t0, $s0  # $t0 = 4x + x
+addi $s1, $t0, 15  # y = 5x + 15
+#fim
+#================================================
+
+
+#================================================ QUESTÃO 03
+#EP-06: Questão 3
+#Luis Felipe Souza Lopes - 654663
+
+#======================================
+#Programa:
+
+# x = 3;
+# y = 4;
+# z = (15*x + 67*y) * 4;
+#======================================
+
+# x -> $s0 
+# y -> $s1 
+# z -> $s2
+
+#inicio
+.text
+.globl main
+
+main:
+#atribuições
+ori $s0, $zero, 3  # x = 3
+ori $s1, $zero, 4  # y = 4
+
+#pegando 15*x
+add $t0, $s0, $s0  # $t0 = x + x = 2x
+add $t0, $t0, $t0  # $t0 = 2x + 2x = 4x
+add $t0, $t0, $t0  # $t0 = 4x + 4x = 8x
+add $t0, $t0, $t0  # $t0 = 8x + 8x = 16x
+sub $t0, $t0, $s0  # $t0 = 16x - x = 15x
+
+#pegando 67*y
+add $t1, $s1, $s1  # $t1 = y + y = 2y
+add $t2, $t1, $t1  # $t2 = 2y + 2y = 4y
+add $t2, $t2, $t2  # $t2 = 4y + 4y = 8y
+add $t2, $t2, $t2  # $t2 = 8y + 8y = 16y
+add $t2, $t2, $t2  # $t2 = 16y + 16y = 32y
+add $t2, $t2, $t2  # $t2 = 32y + 32y = 64y
+add $t2, $t2, $t2  # $t2 = 32y + 32y = 64y
+add $t2, $t2, $t1  # $t2 = 64y + $t1(2y) = 66y
+add $t2, $t2, $s1  # $t2 = 66y + y = 67y
+
+#somando 15x + 67y em $t0
+add $t0, $t0, $t2  # $t0 = 15x + 67y
+
+#resultado final
+add $t1, $t0, $t0  # $t1 = 2 * $t0
+add $s2, $t1, $t1  # z = 4 * (15*x + 67*y)
+
+#fim
+#================================================
+
+#================================================ QUESTÃO 04
+#EP-06: Questão 4
+#Luis Felipe Souza Lopes - 654663
+
+#======================================
+#Programa:
+
+# x = 3;
+# y = 4;
+# z = (15*x + 67*y) * 4;
+#======================================
+
+# x -> $s0 
+# y -> $s1 
+# z -> $s2
+
+#inicio
+.text
+.globl main
+
+main:
+#atribuições
+ori $s0, $zero, 3  # x = 3
+ori $s1, $zero, 4  # y = 4
+
+#pegando 15*x
+sll $t0, $s0, 4    # $t0 = 16x
+sub $t0, $t0, $s0  # $t0 = 16x - x = 15x
+
+#pegando 67*y
+sll $t1, $s1, 6  # $t1 = 64y
+add $t1, $t1, $s1  # $t1 = 64y + y = 65y
+add $t1, $t1, $s1  # $t1 = 65y + y = 66y
+add $t1, $t1, $s1  # $t1 = 66y + y = 67y
+
+#somando 15x + 67y em $t0
+add $t0, $t0, $t1  # $t0 = 15x + 67y
+
+#resultado final
+sll $s2, $t0, 2  # z = 4 * $t0(15x + 67y)
+
+#fim
+#================================================
+
+#================================================ QUESTÃO 05
+#EP-06: Questão 5
+#Luis Felipe Souza Lopes - 654663
+
+#======================================
+#Programa:
+
+# x = 100 000;
+# y = 200 000;
+# z = x + y;
+#======================================
+
+# x -> $s0 
+# y -> $s1 
+# z -> $s2
+
+#inicio
+.text
+.globl main
+
+main:
+#atribuições
+ori $t0, $zero, 0x186A  # x = 0x186A
+sll $s0, $t0, 4         # x = 0x186A0
+
+ori $t0, $zero, 0x30D4  # y = 0x30D4  
+sll $s1, $t0, 4         # y = 0x30D40
+
+#resultado final
+add $s2, $s0, $s1  # z = x + y
+
+#fim
+#================================================
