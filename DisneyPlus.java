@@ -305,62 +305,68 @@ class DisneyPlus{
 
                 }
 
-
+                //LER COUNTRY =================================================================
                 try {
-                    DisneyPlus.setDescription(splits[i]);
+                    DisneyPlus.setCountry(splits[i]);
                     i++;
                 } catch(Exception e) {
-                    DisneyPlus.setDescription("NULL");
+                    DisneyPlus.setCountry("NULL");
 
                 }
  
-                
-
-                
-
-                try {
-                    DisneyPlus.setWeight(Double.parseDouble(splits[8]));
-                } catch(Exception e) {
-                    DisneyPlus.setWeight(0);
-
-                }
-                
-                try {
-                    DisneyPlus.setHeight(Double.parseDouble(splits[9]));
-                } catch(Exception e) {
-                    DisneyPlus.setHeight(0);
-
-                }
-
-                try {
-                    DisneyPlus.setCaptureRate(Integer.parseInt(splits[10]));
-                } catch(Exception e) {
-                    DisneyPlus.setCaptureRate(0);
-
-                }
-
-                try {
-                    DisneyPlus.setLegendary("1".equals(splits[11]));
-                } catch(Exception e) {
-                    DisneyPlus.setLegendary(false);
-
-                }
-
-                try {
-                    DisneyPlus.setLegendary("1".equals(splits[11]));
-                } catch(Exception e) {
-                    DisneyPlus.setLegendary(false);
-
-                }
-
+                //LER DATE ====================================================================
                 try {
                     SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy");
-                    DisneyPlus.setCaptureDate(formato.parse(splits[12]));
+                    DisneyPlus.setDateAdded(formato.parse(splits[i]));
+                    i++;
                 } catch(Exception e) {
                     SimpleDateFormat formato = new SimpleDateFormat("dd/MM/yyyy");
-                    DisneyPlus.setCaptureDate(formato.parse("01/01/1970"));
+                    DisneyPlus.setDateAdded(formato.parse("01/01/1970"));
 
                 }
+                
+                //LER RELEASE YEAR ============================================================
+                try {
+                    DisneyPlus.setReleaseYear(Integer.parseInt(splits[i]));
+                    i++;
+                } catch(Exception e) {
+                    DisneyPlus.setReleaseYear(0);
+
+                }
+
+                //LER RATING ==================================================================
+                try {
+                    DisneyPlus.setRating(splits[i]);
+                    i++;
+                } catch(Exception e) {
+                    DisneyPlus.setRating("NULL");
+
+                }
+                
+                //LER DURATION ================================================================
+                try {
+                    DisneyPlus.setDuration(splits[i]);
+                    i++;
+                } catch(Exception e) {
+                    DisneyPlus.setDuration("NULL");
+
+                }
+
+                //LER LISTED IN ===============================================================
+
+                try {
+                    String substring = line.substring(line.indexOf("\"", i), line.indexOf("\"", i));
+                    String[] listedIn = substring.split(",");
+
+                    DisneyPlus.setListedIn(listedIn);
+                    i++;
+
+                } catch(Exception e) {
+                    DisneyPlus.setCast(new String[1]);
+
+                }
+
+                
 
                 resp.add(DisneyPlus);
 
