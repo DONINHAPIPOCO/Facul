@@ -144,101 +144,49 @@ class DisneyPlus{
 
     }
 
-    /*
-    public void printArray(ArrayList<DisneyPlus> array){
-        for(int i = 0; i < array.size(); i++){
-            System.out.print("[" + array.get(i).getId() + " ## " + array.get(i).getName() + " ## {"); 
-        
-            for(int j = 0; j < array.get(i).getTypes().length; j++){
-                System.out.print(array.get(i).getTypes()[j]);
-
-            }
-
-            for(int j = 0; j < array.get(i).getAbilities().length; j++){
-                System.out.print(array.get(i).getAbilities()[j]);
-
-            }
-
-            System.out.println("} ## " 
-            + array.get(i).getHouse() + " ## " + array.get(i).getAncestry() + " ## " + array.get(i).getSpecies() + " ## " + array.get(i).getPatronus() + " ## "
-            + array.get(i).isHogwartsStaff() + " ## " + array.get(i).isHogwartsStudent() + " ## " + array.get(i).getActorName() + " ## " + array.get(i).isAlive() + " ## "
-            + array.get(i).getDateOfBirth() + " ## " + array.get(i).getYearOfBirth() + " ## " + array.get(i).getEyeColour() + " ## " + array.get(i).getGender() + " ## "
-            + array.get(i).getHairColour() + " ## " + array.get(i).isWizzard() + "]");
-            
-        }
-
-    }*/
-
     //IMPRIMIR E LER ==========================================================================
     public void print(){
-        System.out.print("[#" + this.getId() + " -> " + this.getName() + ": " + this.getDescription() + " - ["); 
+        System.out.print("[=>" + this.getShowId() + " -> " + this.getType() + " ## " + this.getTitle() + " ## "); 
 
-        for(int i = 0; i < this.getTypes().length; i++){
-            this.getTypes()[i] = this.getTypes()[i].replace("[", "");
-            this.getTypes()[i] = this.getTypes()[i].replace("]", "");
-            this.getTypes()[i] = this.getTypes()[i].replace("'", "");
-            System.out.print(this.getTypes()[i]);
-            if (i < this.getTypes().length - 1) {
+        for(int i = 0; i < this.getDirectors().length; i++){
+            System.out.print(this.getDirectors()[i]);
+            if (i < this.getDirectors().length - 1) {
                 System.out.print(", ");
 
             }
 
         }
 
-        System.out.print("] - [");
+        System.out.print(" ## [");
 
-        for(int i = 0; i < this.getAbilities().length; i++){
-            this.getAbilities()[i] = this.getAbilities()[i].replace("[", "");
-            this.getAbilities()[i] = this.getAbilities()[i].replace("]", "");
-            this.getAbilities()[i] = this.getAbilities()[i].replace("'", "");
-            System.out.print(this.getAbilities()[i]);
-            if (i < this.getAbilities().length - 1) {
+        for(int i = 0; i < this.getCast().length; i++){
+            System.out.print(this.getCast()[i]);
+            if (i < this.getCast().length - 1) {
                 System.out.print(", ");
+
+            }
+
+        }
+
+        System.out.print("] ## " + this.getCountry() + " ## ");
+
+        SimpleDateFormat formatoData = new SimpleDateFormat("dd-MM-yyy");
+        String dataFormatada = formatoData.format(this.getDateAdded());
+        System.out.print(dataFormatada + " ## " + this.getReleaseYear() + " ## " + this.getRating() + " ## "
+        + this.getDuration());
+        
+        for(int i = 0; i < this.getListedIn().length; i++){
+            System.out.print(this.getListedIn()[i]);
+            if (i < this.getListedIn().length - 1) {
+                System.out.print(", ");
+
+            } else {
+                System.out.println();
 
             }
 
         }
         
-        System.out.print("] - " 
-        + this.getWeight() + "kg - " + this.getHeight() + "m - " + this.getCaptureRate() + "% - " + this.isLegendary() + " - "
-        + this.getGeneration() + " gen] - ");
-
-        SimpleDateFormat formatoData = new SimpleDateFormat("dd-MM-yyy");
-        String dataFormatada = formatoData.format(this.getCaptureDate());
-        System.out.println(dataFormatada);
-
-    }
-
-    private static String[] getArrayDirectors(String line) throws Exception{
-        if(line.isEmpty()) {
-            throw new Exception("ERRO AO RECUPERAR ARRAY DE DIRETORES! Linha vazia!!!");
-
-        } else {
-            String substring = line.substring(line.indexOf("\""), line.indexOf("\""));
-
-            String[] directors = substring.split(",");
-
-            return directors;
-
-        }
-
-
-    }
-
-    private static String[] getArrayCast(String line) throws Exception{
-        if(line.isEmpty()) {
-            throw new Exception("ERRO AO RECUPERAR ARRAY DE DIRETORES! Linha vazia!!!");
-
-        } else {
-            String substring = line.substring(line.indexOf("\""), line.indexOf("\""));
-
-            String[] directors = substring.split(",");
-
-            return directors;
-
-        }
-
-
     }
 
     public static ArrayList<DisneyPlus> ler(String nomeArquivo) throws ParseException, Exception{
@@ -366,8 +314,6 @@ class DisneyPlus{
 
                 }
 
-                
-
                 resp.add(DisneyPlus);
 
             }
@@ -381,7 +327,7 @@ class DisneyPlus{
 
     }
 
-    public static boolean pesquisarPorID(int id, ArrayList<DisneyPlus> array){
+    /*public static boolean pesquisarPorID(int id, ArrayList<DisneyPlus> array){
         boolean resp = false;
         for(int i = 0; i < array.size(); i++){
             if(array.get(i).getId() == id) resp = true;
@@ -390,7 +336,7 @@ class DisneyPlus{
 
         return resp;
 
-    }
+    }*/
 
     public static void main(String[] args) throws ParseException, Exception{
         String[] entrada = new String[5000];
