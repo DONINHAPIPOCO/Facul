@@ -229,7 +229,7 @@ class DisneyPlus{
 
                 //LER DIRECTORS ===============================================================
                 try {
-                    String substring = line.substring(line.indexOf("\""), line.indexOf("\""));
+                    String substring = line.substring(line.indexOf('"'), line.indexOf('"'));
                     String[] directors = substring.split(",");
 
                     DisneyPlus.setDirectors(directors);
@@ -242,7 +242,7 @@ class DisneyPlus{
 
                 //LER CAST ====================================================================
                 try {
-                    String substring = line.substring(line.indexOf("\"", i), line.indexOf("\"", i));
+                    String substring = line.substring(line.indexOf('"', i), line.indexOf('"', i));
                     String[] cast = substring.split(",");
 
                     DisneyPlus.setCast(cast);
@@ -303,7 +303,7 @@ class DisneyPlus{
                 //LER LISTED IN ===============================================================
 
                 try {
-                    String substring = line.substring(line.indexOf("\"", i), line.indexOf("\"", i));
+                    String substring = line.substring(line.indexOf('"', i), line.indexOf('"', i));
                     String[] listedIn = substring.split(",");
 
                     DisneyPlus.setListedIn(listedIn);
@@ -359,18 +359,22 @@ class DisneyPlus{
 
         //ArrayList<DisneyPlus> array = DisneyPlus.ler("C:/Users/User/Documents/Facul/AED2/TP02/Q01-Classe em Java/DisneyPlus.csv");
 
-        ArrayList<DisneyPlus> array = DisneyPlus.ler("/tmp/DisneyPlus.csv");
+        ArrayList<DisneyPlus> array = DisneyPlus.ler("/tmp/disneyplus.csv");
         HashMap<Integer, DisneyPlus> map = new HashMap<>();
 
-        for (DisneyPlus DisneyPlus : array) {
-            map.put(DisneyPlus.getId(), DisneyPlus);
+        for (DisneyPlus disneyPlus : array) {
+            //System.out.println("ID PRÉ TRATADA: " + disneyPlus.getShowId());
+            String id = disneyPlus.getShowId().replace("s", "");
+            //System.out.println("ID PÓS TRATADA: " + id);
+            map.put(Integer.parseInt(id), disneyPlus);
 
         }
 
         //pesquisar ids da entrada e printar caso existam
         for(int i = 0; i < numEntrada; i++){
-            if(map.containsKey(Integer.parseInt(entrada[i]))){
-                map.get(Integer.parseInt(entrada[i])).print();
+            String in = entrada[i].replace("s", "");
+            if(map.containsKey(Integer.parseInt(in))){
+                map.get(Integer.parseInt(in)).print();
 
             }
 
