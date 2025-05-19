@@ -14,8 +14,8 @@ class DisneyPlus{
     private String showId;
     private String type;
     private String title;
-    private String[] directors;
-    private String[] cast;
+    private String directors;
+    private String cast;
     private String country;
     private Date dateAdded;
     private int releaseYear;
@@ -195,48 +195,83 @@ class DisneyPlus{
         try(BufferedReader bf = new BufferedReader(new FileReader(nomeArquivo))){
             String line = bf.readLine();
             while((line = bf.readLine()) != null){
-                String[] splits = line.split(",", -1);
-                DisneyPlus DisneyPlus = new DisneyPlus();
+                String substring = "";
+                DisneyPlus disneyPlus = new DisneyPlus();
 
-                int i = 0;
+                int inicio = 0, fim = 0;
 
                 //LER ID ======================================================================
                 try {
-                    DisneyPlus.setShowId(splits[i]);
-                    i++;
+                    fim = line.indexOf(",", inicio);
+                    substring = line.substring(inicio, fim);
+                    
+                    disneyPlus.setShowId(substring);
+
                 } catch(Exception e) {
-                    DisneyPlus.setShowId("NULL");
+                    disneyPlus.setShowId("NaN");
 
                 }
+
+                inicio = fim + 1;
 
                 //LER TYPE ====================================================================
                 try {
-                    DisneyPlus.setType(splits[i]);
-                    i++;
+                    fim = line.indexOf(",", inicio);
+                    substring = line.substring(inicio, fim);
+
+                    disneyPlus.setType(substring);
+                    
                 } catch(Exception e) {
-                    DisneyPlus.setType("NULL");
+                    disneyPlus.setType("NaN");
 
                 }
+
+                inicio = fim + 1;
 
                 //LER TITLE ===================================================================
                 try {
-                    DisneyPlus.setTitle(splits[i]);
-                    i++;
+                    if(line.charAt(inicio) == '"') {
+                        fim = line.indexOf("\"", inicio + 1);
+                        substring = line.substring(inicio, fim);
+
+                        disneyPlus.setTitle(substring);
+
+                    } else if(line.charAt(inicio) == ',') {
+                        disneyPlus.setTitle("NaN");
+
+                    } else {
+                        fim = line.indexOf(",", inicio);
+                        substring = line.substring(inicio, fim);
+
+                    }
+
+
                 } catch(Exception e) {
-                    DisneyPlus.setTitle("NULL");
+                    disneyPlus.setTitle("NaN");
 
                 }
 
+                inicio = fim + 1;
+
                 //LER DIRECTORS ===============================================================
                 try {
-                    String substring = line.substring(line.indexOf('"'), line.indexOf('"'));
-                    String[] directors = substring.split(",");
+                    if(line.charAt(inicio) == '"') {
+                        fim = line.indexOf("\"", inicio + 1);
+                        substring = line.substring(inicio, fim);
 
-                    DisneyPlus.setDirectors(directors);
-                    i++;
+                        disneyPlus.setDirectors(substring);
+
+                    } else if(line.charAt(inicio) == ',') {
+                        disneyPlus.setDirectors("NaN");
+
+                    } else {
+                        fim = line.indexOf(",", inicio);
+                        substring = line.substring(inicio, fim);
+
+                    }
 
                 } catch(Exception e) {
-                    DisneyPlus.setDirectors(new String[1]);
+                    disneyPlus.setDirectors(new String[1]);
 
                 }
 
